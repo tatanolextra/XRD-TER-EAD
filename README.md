@@ -103,32 +103,3 @@ plot_accuracy(results, data)
 plot_entropy(results, data)
 plot_attention(results["last_models"], data)
 ```
-
-## Key methodological points
-
-- **TER augmentation**: for each real structure, isovalent/similar-radius
-  cations are substituted per family-specific `replacement_map` in
-  `crystal_families.py`, and the substituted structure's XRD pattern is
-  simulated with `pymatgen`'s `XRDCalculator`.
-- **Leakage-safe cross-validation**: virtual (TER-generated) structures are
-  only included in a training fold if their real "origin" structure is also
-  in that fold's training split (`evaluation/cross_validation.py`). This
-  fixes an earlier data-leakage bug where virtual structures derived from
-  test-set structures inflated reported accuracy.
-- **Deep Ensemble** (`training/ensemble.py`) provides predictive entropy as
-  an uncertainty estimate, used in `visualization/figures.py` to relate
-  uncertainty to B-site ionic radius.
-
-## Adding a new crystal family
-
-Add one block to `CRYSTAL_FAMILIES` in `data/crystal_families.py`: space
-group, Materials Project query filters, candidate label elements, ionic
-radii, and a TER `replacement_map`. No other file needs to change.
-
-## Citation
-
-<!-- Add citation once accepted / assigned a DOI. -->
-
-## License
-
-<!-- Add a LICENSE file (e.g. MIT) before publishing. -->
