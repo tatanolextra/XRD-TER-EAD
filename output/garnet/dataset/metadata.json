@@ -1,0 +1,6506 @@
+[
+  {
+    "material_id": "mp-14044",
+    "formula": "Mg3Mn2(SiO4)3",
+    "is_virtual": false,
+    "origin": "Mg3Mn2(SiO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1327088",
+    "formula": "Mg3Si3(MoO6)2",
+    "is_virtual": false,
+    "origin": "Mg3Si3(MoO6)2",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1210549",
+    "formula": "Na3Mg2V3O12",
+    "is_virtual": false,
+    "origin": "Na3Mg2V3O12",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1154758",
+    "formula": "Mg3Si3(NiO6)2",
+    "is_virtual": false,
+    "origin": "Mg3Si3(NiO6)2",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1163940",
+    "formula": "Mg3Si3(SbO6)2",
+    "is_virtual": false,
+    "origin": "Mg3Si3(SbO6)2",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-14043",
+    "formula": "Mg3V2(SiO4)3",
+    "is_virtual": false,
+    "origin": "Mg3V2(SiO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1207890",
+    "formula": "Y2Mg3(SiO4)3",
+    "is_virtual": false,
+    "origin": "Y2Mg3(SiO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1262556",
+    "formula": "Mg3Ti2(SiO4)3",
+    "is_virtual": false,
+    "origin": "Mg3Ti2(SiO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1328703",
+    "formula": "Mg3Si3(SnO6)2",
+    "is_virtual": false,
+    "origin": "Mg3Si3(SnO6)2",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1157231",
+    "formula": "Mg3Si3(WO6)2",
+    "is_virtual": false,
+    "origin": "Mg3Si3(WO6)2",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-aaaieixl",
+    "formula": "Mg3Sc2(SiO4)3",
+    "is_virtual": false,
+    "origin": "Mg3Sc2(SiO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1210577",
+    "formula": "Na3Mn2V3O12",
+    "is_virtual": false,
+    "origin": "Na3Mn2V3O12",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1208580",
+    "formula": "Sr3Mn2O12",
+    "is_virtual": false,
+    "origin": "Sr3Mn2O12",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-5802",
+    "formula": "Mn5(SiO4)3",
+    "is_virtual": false,
+    "origin": "Mn5(SiO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-14046",
+    "formula": "Mn3V2(SiO4)3",
+    "is_virtual": false,
+    "origin": "Mn3V2(SiO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1249486",
+    "formula": "MnSiO4",
+    "is_virtual": false,
+    "origin": "MnSiO4",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1328058",
+    "formula": "Mn2Zn3(SiO4)3",
+    "is_virtual": false,
+    "origin": "Mn2Zn3(SiO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1154524",
+    "formula": "Y2Mn3(SiO4)3",
+    "is_virtual": false,
+    "origin": "Y2Mn3(SiO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1142857",
+    "formula": "SiMoO4",
+    "is_virtual": false,
+    "origin": "SiMoO4",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1143651",
+    "formula": "Si3(MoO6)2",
+    "is_virtual": false,
+    "origin": "Si3(MoO6)2",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1154656",
+    "formula": "Zn3Si3(MoO6)2",
+    "is_virtual": false,
+    "origin": "Zn3Si3(MoO6)2",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-6213",
+    "formula": "Na3Sc2V3O12",
+    "is_virtual": false,
+    "origin": "Na3Sc2V3O12",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1257835",
+    "formula": "Zn3Si3(NiO6)2",
+    "is_virtual": false,
+    "origin": "Zn3Si3(NiO6)2",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1364379",
+    "formula": "SiNiO4",
+    "is_virtual": false,
+    "origin": "SiNiO4",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1363993",
+    "formula": "Y2Si3(NiO4)3",
+    "is_virtual": false,
+    "origin": "Y2Si3(NiO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1142725",
+    "formula": "SiSbO4",
+    "is_virtual": false,
+    "origin": "SiSbO4",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1154534",
+    "formula": "Zn3Si3(SbO6)2",
+    "is_virtual": false,
+    "origin": "Zn3Si3(SbO6)2",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-aaaieiyh",
+    "formula": "Sr3Sc2(SiO4)3",
+    "is_virtual": false,
+    "origin": "Sr3Sc2(SiO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1142770",
+    "formula": "SiSnO4",
+    "is_virtual": false,
+    "origin": "SiSnO4",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1364038",
+    "formula": "Zn3Si3(SnO6)2",
+    "is_virtual": false,
+    "origin": "Zn3Si3(SnO6)2",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1154662",
+    "formula": "Y2Si3(SnO4)3",
+    "is_virtual": false,
+    "origin": "Y2Si3(SnO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1143703",
+    "formula": "Si3(TeO6)2",
+    "is_virtual": false,
+    "origin": "Si3(TeO6)2",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1254352",
+    "formula": "Ti2Zn3(SiO4)3",
+    "is_virtual": false,
+    "origin": "Ti2Zn3(SiO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1364577",
+    "formula": "TiSiO4",
+    "is_virtual": false,
+    "origin": "TiSiO4",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1163922",
+    "formula": "Y2Ti3(SiO4)3",
+    "is_virtual": false,
+    "origin": "Y2Ti3(SiO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1143876",
+    "formula": "VSiO4",
+    "is_virtual": false,
+    "origin": "VSiO4",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1251134",
+    "formula": "V2Zn3(SiO4)3",
+    "is_virtual": false,
+    "origin": "V2Zn3(SiO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1157332",
+    "formula": "Y2V3(SiO4)3",
+    "is_virtual": false,
+    "origin": "Y2V3(SiO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1249282",
+    "formula": "SiWO4",
+    "is_virtual": false,
+    "origin": "SiWO4",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1143551",
+    "formula": "Si3(WO6)2",
+    "is_virtual": false,
+    "origin": "Si3(WO6)2",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1157227",
+    "formula": "Y2Si3(WO4)3",
+    "is_virtual": false,
+    "origin": "Y2Si3(WO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1163950",
+    "formula": "Zn3Si3(WO6)2",
+    "is_virtual": false,
+    "origin": "Zn3Si3(WO6)2",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1214140",
+    "formula": "Ca3Mg2(AsO4)3",
+    "is_virtual": false,
+    "origin": "Ca3Mg2(AsO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1211915",
+    "formula": "K3Cr2(AsO4)3",
+    "is_virtual": false,
+    "origin": "K3Cr2(AsO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-16383",
+    "formula": "Na3Cr2(AsO4)3",
+    "is_virtual": false,
+    "origin": "Na3Cr2(AsO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-779404",
+    "formula": "Li3Cr2(AsO4)3",
+    "is_virtual": false,
+    "origin": "Li3Cr2(AsO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-556723",
+    "formula": "Na3Fe2(AsO4)3",
+    "is_virtual": false,
+    "origin": "Na3Fe2(AsO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1365542",
+    "formula": "Ca3Ag2(GeO4)3",
+    "is_virtual": false,
+    "origin": "Ca3Ag2(GeO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1157153",
+    "formula": "Ca3Si3(AgO6)2",
+    "is_virtual": false,
+    "origin": "Ca3Si3(AgO6)2",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1330159",
+    "formula": "Zn3Ag2(GeO4)3",
+    "is_virtual": false,
+    "origin": "Zn3Ag2(GeO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1154476",
+    "formula": "Mg3Si3(AgO6)2",
+    "is_virtual": false,
+    "origin": "Mg3Si3(AgO6)2",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1210930",
+    "formula": "Mn2V3(AgO4)3",
+    "is_virtual": false,
+    "origin": "Mn2V3(AgO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1324601",
+    "formula": "Zn3Si3(AgO6)2",
+    "is_virtual": false,
+    "origin": "Zn3Si3(AgO6)2",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-14049",
+    "formula": "Ba3Al2(SiO4)3",
+    "is_virtual": false,
+    "origin": "Ba3Al2(SiO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1204798",
+    "formula": "Ba3Al2O12",
+    "is_virtual": false,
+    "origin": "Ba3Al2O12",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1214222",
+    "formula": "Ca3Al2(GeO4)3",
+    "is_virtual": false,
+    "origin": "Ca3Al2(GeO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-23882",
+    "formula": "Ca3Al2(HO)12",
+    "is_virtual": false,
+    "origin": "Ca3Al2(HO)12",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-6008",
+    "formula": "Ca3Al2(SiO4)3",
+    "is_virtual": false,
+    "origin": "Ca3Al2(SiO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1182533",
+    "formula": "Ca3Al2O12",
+    "is_virtual": false,
+    "origin": "Ca3Al2O12",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1213214",
+    "formula": "Er3Al3Cr2O12",
+    "is_virtual": false,
+    "origin": "Er3Al3Cr2O12",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1207891",
+    "formula": "Y3Al3Cr2O12",
+    "is_virtual": false,
+    "origin": "Y3Al3Cr2O12",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1364177",
+    "formula": "Al2Cr3(SiO4)3",
+    "is_virtual": false,
+    "origin": "Al2Cr3(SiO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1214967",
+    "formula": "Al2Cd3(GeO4)3",
+    "is_virtual": false,
+    "origin": "Al2Cd3(GeO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-14047",
+    "formula": "Al2Cd3(SiO4)3",
+    "is_virtual": false,
+    "origin": "Al2Cd3(SiO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1154457",
+    "formula": "Al2Cu3(SiO4)3",
+    "is_virtual": false,
+    "origin": "Al2Cu3(SiO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-6186",
+    "formula": "Al2Co3(SiO4)3",
+    "is_virtual": false,
+    "origin": "Al2Co3(SiO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-772195",
+    "formula": "Dy3Al5O12",
+    "is_virtual": false,
+    "origin": "Dy3Al5O12",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1213138",
+    "formula": "Dy3Sc2Al3O12",
+    "is_virtual": false,
+    "origin": "Dy3Sc2Al3O12",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-3384",
+    "formula": "Er3Al5O12",
+    "is_virtual": false,
+    "origin": "Er3Al5O12",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1213255",
+    "formula": "Er3Sc2Al3O12",
+    "is_virtual": false,
+    "origin": "Er3Sc2Al3O12",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-21757",
+    "formula": "Eu3Al5O12",
+    "is_virtual": false,
+    "origin": "Eu3Al5O12",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1213328",
+    "formula": "Eu3Sc2Al3O12",
+    "is_virtual": false,
+    "origin": "Eu3Sc2Al3O12",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-6172",
+    "formula": "Al2Fe3(SiO4)3",
+    "is_virtual": false,
+    "origin": "Al2Fe3(SiO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-aaaieiwc",
+    "formula": "Lu3Al2(GaO4)3",
+    "is_virtual": false,
+    "origin": "Lu3Al2(GaO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-aaaiejbm",
+    "formula": "Lu3Al3(GaO6)2",
+    "is_virtual": false,
+    "origin": "Lu3Al3(GaO6)2",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-aaaieixg",
+    "formula": "Y3Al2(GaO4)3",
+    "is_virtual": false,
+    "origin": "Y3Al2(GaO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-aaaieizx",
+    "formula": "Y3Al3(GaO6)2",
+    "is_virtual": false,
+    "origin": "Y3Al3(GaO6)2",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-14133",
+    "formula": "Gd3Al5O12",
+    "is_virtual": false,
+    "origin": "Gd3Al5O12",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1213017",
+    "formula": "Gd3Sc2Al3O12",
+    "is_virtual": false,
+    "origin": "Gd3Sc2Al3O12",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1211470",
+    "formula": "Mn3Al2(GeO4)3",
+    "is_virtual": false,
+    "origin": "Mn3Al2(GeO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-aaaiejdl",
+    "formula": "Mg3Al2(GeO4)3",
+    "is_virtual": false,
+    "origin": "Mg3Al2(GeO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-aaaieiuo",
+    "formula": "Sr3Al2(GeO4)3",
+    "is_virtual": false,
+    "origin": "Sr3Al2(GeO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-24126",
+    "formula": "Sr3Al2(HO)12",
+    "is_virtual": false,
+    "origin": "Sr3Al2(HO)12",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-14388",
+    "formula": "Ho3Al5O12",
+    "is_virtual": false,
+    "origin": "Ho3Al5O12",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1212436",
+    "formula": "Ho3Sc2Al3O12",
+    "is_virtual": false,
+    "origin": "Ho3Sc2Al3O12",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-780432",
+    "formula": "La3Al5O12",
+    "is_virtual": false,
+    "origin": "La3Al5O12",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-14132",
+    "formula": "Lu3Al5O12",
+    "is_virtual": false,
+    "origin": "Lu3Al5O12",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-aaaieivk",
+    "formula": "Lu3Sc2Al3O12",
+    "is_virtual": false,
+    "origin": "Lu3Sc2Al3O12",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-aaaiejaw",
+    "formula": "Lu3Sc3Al2O12",
+    "is_virtual": false,
+    "origin": "Lu3Sc3Al2O12",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-6073",
+    "formula": "Mg3Al2(SiO4)3",
+    "is_virtual": false,
+    "origin": "Mg3Al2(SiO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-6480",
+    "formula": "Mn3Al2(SiO4)3",
+    "is_virtual": false,
+    "origin": "Mn3Al2(SiO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1020161",
+    "formula": "Na3Al2(PO4)3",
+    "is_virtual": false,
+    "origin": "Na3Al2(PO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1157674",
+    "formula": "Al2Si3(NiO4)3",
+    "is_virtual": false,
+    "origin": "Al2Si3(NiO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-14678",
+    "formula": "Y3Sc2Al3O12",
+    "is_virtual": false,
+    "origin": "Y3Sc2Al3O12",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1207916",
+    "formula": "Tm3Sc2Al3O12",
+    "is_virtual": false,
+    "origin": "Tm3Sc2Al3O12",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1209040",
+    "formula": "Sm3Sc2Al3O12",
+    "is_virtual": false,
+    "origin": "Sm3Sc2Al3O12",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-14048",
+    "formula": "Sr3Al2(SiO4)3",
+    "is_virtual": false,
+    "origin": "Sr3Al2(SiO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1328088",
+    "formula": "Al2Si3(WO4)3",
+    "is_virtual": false,
+    "origin": "Al2Si3(WO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1364639",
+    "formula": "Ti3Al2(SiO4)3",
+    "is_virtual": false,
+    "origin": "Ti3Al2(SiO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1163929",
+    "formula": "Al2Si3(SnO4)3",
+    "is_virtual": false,
+    "origin": "Al2Si3(SnO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1163942",
+    "formula": "Al2V3(SiO4)3",
+    "is_virtual": false,
+    "origin": "Al2V3(SiO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-780370",
+    "formula": "Sm3Al5O12",
+    "is_virtual": false,
+    "origin": "Sm3Al5O12",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-aaaieisc",
+    "formula": "Y3Sc3Al2O12",
+    "is_virtual": false,
+    "origin": "Y3Sc3Al2O12",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-14387",
+    "formula": "Tb3Al5O12",
+    "is_virtual": false,
+    "origin": "Tb3Al5O12",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1208102",
+    "formula": "Tm3Al5O12",
+    "is_virtual": false,
+    "origin": "Tm3Al5O12",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1207869",
+    "formula": "Y3Al3V2O12",
+    "is_virtual": false,
+    "origin": "Y3Al3V2O12",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-3050",
+    "formula": "Y3Al5O12",
+    "is_virtual": false,
+    "origin": "Y3Al5O12",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1013807",
+    "formula": "Li3Co2(GeO4)3",
+    "is_virtual": false,
+    "origin": "Li3Co2(GeO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1329459",
+    "formula": "Mg3Co2(GeO4)3",
+    "is_virtual": false,
+    "origin": "Mg3Co2(GeO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1013794",
+    "formula": "Na3Co2(GeO4)3",
+    "is_virtual": false,
+    "origin": "Na3Co2(GeO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1364220",
+    "formula": "Zn3Co2(GeO4)3",
+    "is_virtual": false,
+    "origin": "Zn3Co2(GeO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1324099",
+    "formula": "Mg3Co2(SiO4)3",
+    "is_virtual": false,
+    "origin": "Mg3Co2(SiO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1172361",
+    "formula": "CoSiO4",
+    "is_virtual": false,
+    "origin": "CoSiO4",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1327416",
+    "formula": "Zn3Co2(SiO4)3",
+    "is_virtual": false,
+    "origin": "Zn3Co2(SiO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1157336",
+    "formula": "Y2Co3(SiO4)3",
+    "is_virtual": false,
+    "origin": "Y2Co3(SiO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-21974",
+    "formula": "Dy3Fe5O12",
+    "is_virtual": false,
+    "origin": "Dy3Fe5O12",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-15576",
+    "formula": "Dy3Ga5O12",
+    "is_virtual": false,
+    "origin": "Dy3Ga5O12",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1210935",
+    "formula": "Li3Dy3(TeO6)2",
+    "is_virtual": false,
+    "origin": "Li3Dy3(TeO6)2",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-560103",
+    "formula": "Er3Fe5O12",
+    "is_virtual": false,
+    "origin": "Er3Fe5O12",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-12236",
+    "formula": "Er3Ga5O12",
+    "is_virtual": false,
+    "origin": "Er3Ga5O12",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1209197",
+    "formula": "Sr3Er2(GeO4)3",
+    "is_virtual": false,
+    "origin": "Sr3Er2(GeO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1210989",
+    "formula": "Li3Er3(TeO6)2",
+    "is_virtual": false,
+    "origin": "Li3Er3(TeO6)2",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-555758",
+    "formula": "Eu3Fe5O12",
+    "is_virtual": false,
+    "origin": "Eu3Fe5O12",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1213528",
+    "formula": "Eu3Sc2(FeO4)3",
+    "is_virtual": false,
+    "origin": "Eu3Sc2(FeO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1213411",
+    "formula": "Eu3Ga5O12",
+    "is_virtual": false,
+    "origin": "Eu3Ga5O12",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1211152",
+    "formula": "Li3Eu3(TeO6)2",
+    "is_virtual": false,
+    "origin": "Li3Eu3(TeO6)2",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1208208",
+    "formula": "Y3Ga3(FeO6)2",
+    "is_virtual": false,
+    "origin": "Y3Ga3(FeO6)2",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-557370",
+    "formula": "Gd3Fe5O12",
+    "is_virtual": false,
+    "origin": "Gd3Fe5O12",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1013849",
+    "formula": "Li3Fe2(GeO4)3",
+    "is_virtual": false,
+    "origin": "Li3Fe2(GeO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1201980",
+    "formula": "Mn3Fe2(GeO4)3",
+    "is_virtual": false,
+    "origin": "Mn3Fe2(GeO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1324648",
+    "formula": "Mg3Fe2(GeO4)3",
+    "is_virtual": false,
+    "origin": "Mg3Fe2(GeO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1013864",
+    "formula": "Na3Fe2(GeO4)3",
+    "is_virtual": false,
+    "origin": "Na3Fe2(GeO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1363943",
+    "formula": "Zn3Fe2(GeO4)3",
+    "is_virtual": false,
+    "origin": "Zn3Fe2(GeO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-744565",
+    "formula": "Sr3Fe2(HO)12",
+    "is_virtual": false,
+    "origin": "Sr3Fe2(HO)12",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-781609",
+    "formula": "Ho3Fe5O12",
+    "is_virtual": false,
+    "origin": "Ho3Fe5O12",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1212003",
+    "formula": "La3Fe5O12",
+    "is_virtual": false,
+    "origin": "La3Fe5O12",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-559750",
+    "formula": "Lu3Fe5O12",
+    "is_virtual": false,
+    "origin": "Lu3Fe5O12",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-765598",
+    "formula": "Li3Fe2(PO4)3",
+    "is_virtual": false,
+    "origin": "Li3Fe2(PO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-6551",
+    "formula": "Mg3Fe2(SiO4)3",
+    "is_virtual": false,
+    "origin": "Mg3Fe2(SiO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-6239",
+    "formula": "Mn3Fe2(SiO4)3",
+    "is_virtual": false,
+    "origin": "Mn3Fe2(SiO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-555470",
+    "formula": "Mn2Fe3(SiO4)3",
+    "is_virtual": false,
+    "origin": "Mn2Fe3(SiO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1201849",
+    "formula": "Nd3Fe5O12",
+    "is_virtual": false,
+    "origin": "Nd3Fe5O12",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1210576",
+    "formula": "Nd3Sc2(FeO4)3",
+    "is_virtual": false,
+    "origin": "Nd3Sc2(FeO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1197438",
+    "formula": "Pr3Fe5O12",
+    "is_virtual": false,
+    "origin": "Pr3Fe5O12",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1209949",
+    "formula": "Pr3Sc2(FeO4)3",
+    "is_virtual": false,
+    "origin": "Pr3Sc2(FeO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1209643",
+    "formula": "Sm3Sc2(FeO4)3",
+    "is_virtual": false,
+    "origin": "Sm3Sc2(FeO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-21791",
+    "formula": "V2Fe3(SiO4)3",
+    "is_virtual": false,
+    "origin": "V2Fe3(SiO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-555755",
+    "formula": "Fe5(SiO4)3",
+    "is_virtual": false,
+    "origin": "Fe5(SiO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1258162",
+    "formula": "Zn3Fe2(SiO4)3",
+    "is_virtual": false,
+    "origin": "Zn3Fe2(SiO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1143147",
+    "formula": "FeSiO4",
+    "is_virtual": false,
+    "origin": "FeSiO4",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1324167",
+    "formula": "Y2Fe3(SiO4)3",
+    "is_virtual": false,
+    "origin": "Y2Fe3(SiO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-14139",
+    "formula": "Sm3Fe5O12",
+    "is_virtual": false,
+    "origin": "Sm3Fe5O12",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-19710",
+    "formula": "Tb3Fe5O12",
+    "is_virtual": false,
+    "origin": "Tb3Fe5O12",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1208209",
+    "formula": "Tm3Fe5O12",
+    "is_virtual": false,
+    "origin": "Tm3Fe5O12",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-4704",
+    "formula": "Y3Fe5O12",
+    "is_virtual": false,
+    "origin": "Y3Fe5O12",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-2921",
+    "formula": "Gd3Ga5O12",
+    "is_virtual": false,
+    "origin": "Gd3Ga5O12",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1213450",
+    "formula": "Gd3Lu2(GaO4)3",
+    "is_virtual": false,
+    "origin": "Gd3Lu2(GaO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-555835",
+    "formula": "Gd3Sc2(GaO4)3",
+    "is_virtual": false,
+    "origin": "Gd3Sc2(GaO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1211638",
+    "formula": "Mn3Ga2(GeO4)3",
+    "is_virtual": false,
+    "origin": "Mn3Ga2(GeO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-aaaieiuc",
+    "formula": "Mg3Ga2(GeO4)3",
+    "is_virtual": false,
+    "origin": "Mg3Ga2(GeO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-aaaiejet",
+    "formula": "Sr3Ga2(GeO4)3",
+    "is_virtual": false,
+    "origin": "Sr3Ga2(GeO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-15575",
+    "formula": "Ho3Ga5O12",
+    "is_virtual": false,
+    "origin": "Ho3Ga5O12",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1210498",
+    "formula": "Nd3Ho2(GaO4)3",
+    "is_virtual": false,
+    "origin": "Nd3Ho2(GaO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1211871",
+    "formula": "La3In2(GaO4)3",
+    "is_virtual": false,
+    "origin": "La3In2(GaO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1207946",
+    "formula": "Y3In2(GaO4)3",
+    "is_virtual": false,
+    "origin": "Y3In2(GaO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1212454",
+    "formula": "La3Lu2(GaO4)3",
+    "is_virtual": false,
+    "origin": "La3Lu2(GaO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-780561",
+    "formula": "La3Ga5O12",
+    "is_virtual": false,
+    "origin": "La3Ga5O12",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1211869",
+    "formula": "La3Sc2(GaO4)3",
+    "is_virtual": false,
+    "origin": "La3Sc2(GaO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1212025",
+    "formula": "La3Tm2(GaO4)3",
+    "is_virtual": false,
+    "origin": "La3Tm2(GaO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-14134",
+    "formula": "Lu3Ga5O12",
+    "is_virtual": false,
+    "origin": "Lu3Ga5O12",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1210727",
+    "formula": "Nd3Lu2(GaO4)3",
+    "is_virtual": false,
+    "origin": "Nd3Lu2(GaO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1210514",
+    "formula": "Pr3Lu2(GaO4)3",
+    "is_virtual": false,
+    "origin": "Pr3Lu2(GaO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-aaaiejex",
+    "formula": "Lu3Sc2(GaO4)3",
+    "is_virtual": false,
+    "origin": "Lu3Sc2(GaO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-aaaiejei",
+    "formula": "Lu3Sc3(GaO6)2",
+    "is_virtual": false,
+    "origin": "Lu3Sc3(GaO6)2",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-aaaieiqz",
+    "formula": "Mg3Ga2(SiO4)3",
+    "is_virtual": false,
+    "origin": "Mg3Ga2(SiO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-556143",
+    "formula": "Na3Ga3(TeO6)2",
+    "is_virtual": false,
+    "origin": "Na3Ga3(TeO6)2",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-15239",
+    "formula": "Nd3Ga5O12",
+    "is_virtual": false,
+    "origin": "Nd3Ga5O12",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1210408",
+    "formula": "Nd3Tm2(GaO4)3",
+    "is_virtual": false,
+    "origin": "Nd3Tm2(GaO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-740719",
+    "formula": "Ba3In2(HO)12",
+    "is_virtual": false,
+    "origin": "Ba3In2(HO)12",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-555393",
+    "formula": "KBi6BrO9",
+    "is_virtual": false,
+    "origin": "KBi6BrO9",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1338560",
+    "formula": "Ca3Ge3(BiO6)2",
+    "is_virtual": false,
+    "origin": "Ca3Ge3(BiO6)2",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1163927",
+    "formula": "Ca3Si3(BiO6)2",
+    "is_virtual": false,
+    "origin": "Ca3Si3(BiO6)2",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-557071",
+    "formula": "KBi6ClO9",
+    "is_virtual": false,
+    "origin": "KBi6ClO9",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-531715",
+    "formula": "Fe5(BiO4)3",
+    "is_virtual": false,
+    "origin": "Fe5(BiO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1333536",
+    "formula": "Mg3Ge3(BiO6)2",
+    "is_virtual": false,
+    "origin": "Mg3Ge3(BiO6)2",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1332100",
+    "formula": "Zn3Ge3(BiO6)2",
+    "is_virtual": false,
+    "origin": "Zn3Ge3(BiO6)2",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-558501",
+    "formula": "KBi6IO9",
+    "is_virtual": false,
+    "origin": "KBi6IO9",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1328117",
+    "formula": "Mg3Si3(BiO6)2",
+    "is_virtual": false,
+    "origin": "Mg3Si3(BiO6)2",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1172356",
+    "formula": "SiBiO4",
+    "is_virtual": false,
+    "origin": "SiBiO4",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1157822",
+    "formula": "Zn3Si3(BiO6)2",
+    "is_virtual": false,
+    "origin": "Zn3Si3(BiO6)2",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-6575",
+    "formula": "Ba4Na(BO3)3",
+    "is_virtual": false,
+    "origin": "Ba4Na(BO3)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-554003",
+    "formula": "Sr4Li(BO3)3",
+    "is_virtual": false,
+    "origin": "Sr4Li(BO3)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-560768",
+    "formula": "NaSr4(BO3)3",
+    "is_virtual": false,
+    "origin": "NaSr4(BO3)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1048585",
+    "formula": "Ca3Cr2(GeO4)3",
+    "is_virtual": false,
+    "origin": "Ca3Cr2(GeO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-6414",
+    "formula": "Ca3Cr2(SiO4)3",
+    "is_virtual": false,
+    "origin": "Ca3Cr2(SiO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1214263",
+    "formula": "Ca3Ti3Cr2O12",
+    "is_virtual": false,
+    "origin": "Ca3Ti3Cr2O12",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1329647",
+    "formula": "Ca3Cu2(GeO4)3",
+    "is_virtual": false,
+    "origin": "Ca3Cu2(GeO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1214197",
+    "formula": "Ca3V3(CuO6)2",
+    "is_virtual": false,
+    "origin": "Ca3V3(CuO6)2",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1163936",
+    "formula": "Ca3Cu2(SiO4)3",
+    "is_virtual": false,
+    "origin": "Ca3Cu2(SiO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1326042",
+    "formula": "Ca3Co2(GeO4)3",
+    "is_virtual": false,
+    "origin": "Ca3Co2(GeO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1214146",
+    "formula": "Ca3V3(CoO6)2",
+    "is_virtual": false,
+    "origin": "Ca3V3(CoO6)2",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1163930",
+    "formula": "Ca3Co2(SiO4)3",
+    "is_virtual": false,
+    "origin": "Ca3Co2(SiO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-21971",
+    "formula": "Ca3Fe2(GeO4)3",
+    "is_virtual": false,
+    "origin": "Ca3Fe2(GeO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-6672",
+    "formula": "Ca3Fe2(SiO4)3",
+    "is_virtual": false,
+    "origin": "Ca3Fe2(SiO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1214233",
+    "formula": "Ca3Fe3(SbO6)2",
+    "is_virtual": false,
+    "origin": "Ca3Fe3(SbO6)2",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1019565",
+    "formula": "Ca3Ga2(GeO4)3",
+    "is_virtual": false,
+    "origin": "Ca3Ga2(GeO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-14050",
+    "formula": "Ca3Ga2(SiO4)3",
+    "is_virtual": false,
+    "origin": "Ca3Ga2(SiO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1214159",
+    "formula": "Ca3Ga3(SnO6)2",
+    "is_virtual": false,
+    "origin": "Ca3Ga3(SnO6)2",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1214317",
+    "formula": "Ca3Ga2(SnO4)3",
+    "is_virtual": false,
+    "origin": "Ca3Ga2(SnO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1214247",
+    "formula": "Ca3In2(GeO4)3",
+    "is_virtual": false,
+    "origin": "Ca3In2(GeO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-21989",
+    "formula": "Ca3Sc2(GeO4)3",
+    "is_virtual": false,
+    "origin": "Ca3Sc2(GeO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1214423",
+    "formula": "Ca3Lu2(GeO4)3",
+    "is_virtual": false,
+    "origin": "Ca3Lu2(GeO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-669331",
+    "formula": "Ca3Y2(GeO4)3",
+    "is_virtual": false,
+    "origin": "Ca3Y2(GeO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1327823",
+    "formula": "Ca3Ni2(GeO4)3",
+    "is_virtual": false,
+    "origin": "Ca3Ni2(GeO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1214274",
+    "formula": "Ca3Ge3(RhO6)2",
+    "is_virtual": false,
+    "origin": "Ca3Ge3(RhO6)2",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1214304",
+    "formula": "Ca3Tm2(GeO4)3",
+    "is_virtual": false,
+    "origin": "Ca3Tm2(GeO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1331549",
+    "formula": "Ca3Ge3(WO6)2",
+    "is_virtual": false,
+    "origin": "Ca3Ge3(WO6)2",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1324516",
+    "formula": "Ca3Ti2(GeO4)3",
+    "is_virtual": false,
+    "origin": "Ca3Ti2(GeO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1337756",
+    "formula": "Ca3Ge3(SbO6)2",
+    "is_virtual": false,
+    "origin": "Ca3Ge3(SbO6)2",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-14052",
+    "formula": "Ca3In2(SiO4)3",
+    "is_virtual": false,
+    "origin": "Ca3In2(SiO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-14051",
+    "formula": "Ca3Mn2(SiO4)3",
+    "is_virtual": false,
+    "origin": "Ca3Mn2(SiO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1214143",
+    "formula": "Ca3Mn2O12",
+    "is_virtual": false,
+    "origin": "Ca3Mn2O12",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1170750",
+    "formula": "Ca3Si3(MoO6)2",
+    "is_virtual": false,
+    "origin": "Ca3Si3(MoO6)2",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1214162",
+    "formula": "Ca3V3(NiO6)2",
+    "is_virtual": false,
+    "origin": "Ca3V3(NiO6)2",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1154587",
+    "formula": "Ca3Si3(NiO6)2",
+    "is_virtual": false,
+    "origin": "Ca3Si3(NiO6)2",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-6255",
+    "formula": "Ca3Sc2(SiO4)3",
+    "is_virtual": false,
+    "origin": "Ca3Sc2(SiO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1331145",
+    "formula": "Ca3Si3(SbO6)2",
+    "is_virtual": false,
+    "origin": "Ca3Si3(SbO6)2",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1214208",
+    "formula": "Ca3Y2(SiO4)3",
+    "is_virtual": false,
+    "origin": "Ca3Y2(SiO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1330803",
+    "formula": "Ca3Si3(SnO6)2",
+    "is_virtual": false,
+    "origin": "Ca3Si3(SnO6)2",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1154470",
+    "formula": "Ca3Ti2(SiO4)3",
+    "is_virtual": false,
+    "origin": "Ca3Ti2(SiO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1154711",
+    "formula": "Ca3Si3(WO6)2",
+    "is_virtual": false,
+    "origin": "Ca3Si3(WO6)2",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1163934",
+    "formula": "Ca3V2(SiO4)3",
+    "is_virtual": false,
+    "origin": "Ca3V2(SiO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-14778",
+    "formula": "Ca3Zn3(TeO6)2",
+    "is_virtual": false,
+    "origin": "Ca3Zn3(TeO6)2",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-6670",
+    "formula": "Cr2Fe3(SiO4)3",
+    "is_virtual": false,
+    "origin": "Cr2Fe3(SiO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1207967",
+    "formula": "Y3Cr2(GaO4)3",
+    "is_virtual": false,
+    "origin": "Y3Cr2(GaO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1012879",
+    "formula": "Li3Cr2(GeO4)3",
+    "is_virtual": false,
+    "origin": "Li3Cr2(GeO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1327259",
+    "formula": "Mg3Cr2(GeO4)3",
+    "is_virtual": false,
+    "origin": "Mg3Cr2(GeO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1329713",
+    "formula": "Cr2(GeO4)3",
+    "is_virtual": false,
+    "origin": "Cr2(GeO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1328221",
+    "formula": "Zn3Cr2(GeO4)3",
+    "is_virtual": false,
+    "origin": "Zn3Cr2(GeO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-26739",
+    "formula": "Li3Cr2(PO4)3",
+    "is_virtual": false,
+    "origin": "Li3Cr2(PO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-6700",
+    "formula": "Mg3Cr2(SiO4)3",
+    "is_virtual": false,
+    "origin": "Mg3Cr2(SiO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-6274",
+    "formula": "Mn3Cr2(SiO4)3",
+    "is_virtual": false,
+    "origin": "Mn3Cr2(SiO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1202673",
+    "formula": "Na3V3Cr2O12",
+    "is_virtual": false,
+    "origin": "Na3V3Cr2O12",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1253507",
+    "formula": "Zn3Cr2(SiO4)3",
+    "is_virtual": false,
+    "origin": "Zn3Cr2(SiO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1143241",
+    "formula": "CrSiO4",
+    "is_virtual": false,
+    "origin": "CrSiO4",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1172462",
+    "formula": "Cr2(SiO4)3",
+    "is_virtual": false,
+    "origin": "Cr2(SiO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1157313",
+    "formula": "Y2Cr3(SiO4)3",
+    "is_virtual": false,
+    "origin": "Y2Cr3(SiO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1215138",
+    "formula": "Cd3Fe2(GeO4)3",
+    "is_virtual": false,
+    "origin": "Cd3Fe2(GeO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1213979",
+    "formula": "Cd3Ga2(GeO4)3",
+    "is_virtual": false,
+    "origin": "Cd3Ga2(GeO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1213947",
+    "formula": "Cd3Ga5O12",
+    "is_virtual": false,
+    "origin": "Cd3Ga5O12",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-13771",
+    "formula": "Sc2Cd3(GeO4)3",
+    "is_virtual": false,
+    "origin": "Sc2Cd3(GeO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1212395",
+    "formula": "Mn2Cd3(GeO4)3",
+    "is_virtual": false,
+    "origin": "Mn2Cd3(GeO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1207985",
+    "formula": "V2Cd3(GeO4)3",
+    "is_virtual": false,
+    "origin": "V2Cd3(GeO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1207534",
+    "formula": "Zn3Cd3(TeO6)2",
+    "is_virtual": false,
+    "origin": "Zn3Cd3(TeO6)2",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1329932",
+    "formula": "Mg3Cu2(GeO4)3",
+    "is_virtual": false,
+    "origin": "Mg3Cu2(GeO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1325923",
+    "formula": "Zn3Cu2(GeO4)3",
+    "is_virtual": false,
+    "origin": "Zn3Cu2(GeO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1265011",
+    "formula": "Mg3Cu2(SiO4)3",
+    "is_virtual": false,
+    "origin": "Mg3Cu2(SiO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1261874",
+    "formula": "Y2Cu3(SiO4)3",
+    "is_virtual": false,
+    "origin": "Y2Cu3(SiO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1157205",
+    "formula": "Zn3Cu2(SiO4)3",
+    "is_virtual": false,
+    "origin": "Zn3Cu2(SiO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-558260",
+    "formula": "Hg6Cl3O2",
+    "is_virtual": false,
+    "origin": "Hg6Cl3O2",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1210032",
+    "formula": "Pr3Ga5O12",
+    "is_virtual": false,
+    "origin": "Pr3Ga5O12",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1201384",
+    "formula": "Sr3(GaO6)2",
+    "is_virtual": false,
+    "origin": "Sr3(GaO6)2",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1207933",
+    "formula": "Y3Sc2(GaO4)3",
+    "is_virtual": false,
+    "origin": "Y3Sc2(GaO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-5800",
+    "formula": "Sm3Ga5O12",
+    "is_virtual": false,
+    "origin": "Sm3Ga5O12",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-aaaiejdo",
+    "formula": "Y3Sc3(GaO6)2",
+    "is_virtual": false,
+    "origin": "Y3Sc3(GaO6)2",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-aaaiejag",
+    "formula": "Sr3Ga2(SiO4)3",
+    "is_virtual": false,
+    "origin": "Sr3Ga2(SiO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-5965",
+    "formula": "Tb3Ga5O12",
+    "is_virtual": false,
+    "origin": "Tb3Ga5O12",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1208125",
+    "formula": "Tm3Ga5O12",
+    "is_virtual": false,
+    "origin": "Tm3Ga5O12",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-5444",
+    "formula": "Y3Ga5O12",
+    "is_virtual": false,
+    "origin": "Y3Ga5O12",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1212457",
+    "formula": "Li3Gd3(TeO6)2",
+    "is_virtual": false,
+    "origin": "Li3Gd3(TeO6)2",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1013795",
+    "formula": "Li3Ge3(MoO6)2",
+    "is_virtual": false,
+    "origin": "Li3Ge3(MoO6)2",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1013796",
+    "formula": "Li3Ni2(GeO4)3",
+    "is_virtual": false,
+    "origin": "Li3Ni2(GeO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1013749",
+    "formula": "Li3Ti2(GeO4)3",
+    "is_virtual": false,
+    "origin": "Li3Ti2(GeO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1013916",
+    "formula": "Li3V2(GeO4)3",
+    "is_virtual": false,
+    "origin": "Li3V2(GeO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1327961",
+    "formula": "Mg3Mn2(GeO4)3",
+    "is_virtual": false,
+    "origin": "Mg3Mn2(GeO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1363886",
+    "formula": "Mg3Ge3(MoO6)2",
+    "is_virtual": false,
+    "origin": "Mg3Ge3(MoO6)2",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1364008",
+    "formula": "Mg3Ni2(GeO4)3",
+    "is_virtual": false,
+    "origin": "Mg3Ni2(GeO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1207912",
+    "formula": "Y3Mg2(GeO4)3",
+    "is_virtual": false,
+    "origin": "Y3Mg2(GeO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1329748",
+    "formula": "Mg3Sn2(GeO4)3",
+    "is_virtual": false,
+    "origin": "Mg3Sn2(GeO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1325293",
+    "formula": "Mg3Ge3(SbO6)2",
+    "is_virtual": false,
+    "origin": "Mg3Ge3(SbO6)2",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1325638",
+    "formula": "Mg3Ti2(GeO4)3",
+    "is_virtual": false,
+    "origin": "Mg3Ti2(GeO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1327460",
+    "formula": "Mg3V2(GeO4)3",
+    "is_virtual": false,
+    "origin": "Mg3V2(GeO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-aaaiejdz",
+    "formula": "Mg3Sc2(GeO4)3",
+    "is_virtual": false,
+    "origin": "Mg3Sc2(GeO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1013842",
+    "formula": "Na3Mn2(GeO4)3",
+    "is_virtual": false,
+    "origin": "Na3Mn2(GeO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1363500",
+    "formula": "Mn2Zn3(GeO4)3",
+    "is_virtual": false,
+    "origin": "Mn2Zn3(GeO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1013797",
+    "formula": "Na3Ge3(MoO6)2",
+    "is_virtual": false,
+    "origin": "Na3Ge3(MoO6)2",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1364316",
+    "formula": "Ge3(MoO6)2",
+    "is_virtual": false,
+    "origin": "Ge3(MoO6)2",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1013808",
+    "formula": "Na3Ni2(GeO4)3",
+    "is_virtual": false,
+    "origin": "Na3Ni2(GeO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1012670",
+    "formula": "Na3Ti2(GeO4)3",
+    "is_virtual": false,
+    "origin": "Na3Ti2(GeO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1012686",
+    "formula": "Na3V2(GeO4)3",
+    "is_virtual": false,
+    "origin": "Na3V2(GeO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1325795",
+    "formula": "Zn3Ni2(GeO4)3",
+    "is_virtual": false,
+    "origin": "Zn3Ni2(GeO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-15103",
+    "formula": "Sr3Y2(GeO4)3",
+    "is_virtual": false,
+    "origin": "Sr3Y2(GeO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1209021",
+    "formula": "Sr3Tm2(GeO4)3",
+    "is_virtual": false,
+    "origin": "Sr3Tm2(GeO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1208829",
+    "formula": "Sr3Sc2(GeO4)3",
+    "is_virtual": false,
+    "origin": "Sr3Sc2(GeO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1327509",
+    "formula": "Zn3Sn2(GeO4)3",
+    "is_virtual": false,
+    "origin": "Zn3Sn2(GeO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1326175",
+    "formula": "Ge3(TeO6)2",
+    "is_virtual": false,
+    "origin": "Ge3(TeO6)2",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1325621",
+    "formula": "V2Zn3(GeO4)3",
+    "is_virtual": false,
+    "origin": "V2Zn3(GeO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1325965",
+    "formula": "Ge3(WO6)2",
+    "is_virtual": false,
+    "origin": "Ge3(WO6)2",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1364109",
+    "formula": "Zn3Ge3(WO6)2",
+    "is_virtual": false,
+    "origin": "Zn3Ge3(WO6)2",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-557953",
+    "formula": "Hg3TeO6",
+    "is_virtual": false,
+    "origin": "Hg3TeO6",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1211542",
+    "formula": "Li3Ho3(TeO6)2",
+    "is_virtual": false,
+    "origin": "Li3Ho3(TeO6)2",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1185315",
+    "formula": "Li3La3(MoO6)2",
+    "is_virtual": false,
+    "origin": "Li3La3(MoO6)2",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-554747",
+    "formula": "Li5La3Nb2O12",
+    "is_virtual": false,
+    "origin": "Li5La3Nb2O12",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-559776",
+    "formula": "Li5La3Ta2O12",
+    "is_virtual": false,
+    "origin": "Li5La3Ta2O12",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1211091",
+    "formula": "Lu3Mg2(SiO4)3",
+    "is_virtual": false,
+    "origin": "Lu3Mg2(SiO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1208701",
+    "formula": "Sr3Lu2O12",
+    "is_virtual": false,
+    "origin": "Sr3Lu2O12",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1211646",
+    "formula": "Li3Lu3(TeO6)2",
+    "is_virtual": false,
+    "origin": "Li3Lu3(TeO6)2",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-863434",
+    "formula": "Li3Mn2(PO4)3",
+    "is_virtual": false,
+    "origin": "Li3Mn2(PO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-557717",
+    "formula": "Li3Nd3(WO6)2",
+    "is_virtual": false,
+    "origin": "Li3Nd3(WO6)2",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-677627",
+    "formula": "Li3Nd3(TeO6)2",
+    "is_virtual": false,
+    "origin": "Li3Nd3(TeO6)2",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1211386",
+    "formula": "Li3Pr3(TeO6)2",
+    "is_virtual": false,
+    "origin": "Li3Pr3(TeO6)2",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-757914",
+    "formula": "Li3Ti2(PO4)3",
+    "is_virtual": false,
+    "origin": "Li3Ti2(PO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-756749",
+    "formula": "Li3V2(PO4)3",
+    "is_virtual": false,
+    "origin": "Li3V2(PO4)3",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1211256",
+    "formula": "Li3Sm3(TeO6)2",
+    "is_virtual": false,
+    "origin": "Li3Sm3(TeO6)2",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1211213",
+    "formula": "Li3Tb3(TeO6)2",
+    "is_virtual": false,
+    "origin": "Li3Tb3(TeO6)2",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1211248",
+    "formula": "Li3Tm3(TeO6)2",
+    "is_virtual": false,
+    "origin": "Li3Tm3(TeO6)2",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "mp-1211226",
+    "formula": "Li3Y3(TeO6)2",
+    "is_virtual": false,
+    "origin": "Li3Y3(TeO6)2",
+    "replaced_from": null,
+    "replaced_to": null
+  },
+  {
+    "material_id": "virtual_317",
+    "formula": "Gd2Mg3(SiO4)3",
+    "is_virtual": true,
+    "origin": "Y2Mg3(SiO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Gd"
+  },
+  {
+    "material_id": "virtual_318",
+    "formula": "Dy2Mg3(SiO4)3",
+    "is_virtual": true,
+    "origin": "Y2Mg3(SiO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Dy"
+  },
+  {
+    "material_id": "virtual_319",
+    "formula": "Ho2Mg3(SiO4)3",
+    "is_virtual": true,
+    "origin": "Y2Mg3(SiO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Ho"
+  },
+  {
+    "material_id": "virtual_320",
+    "formula": "Er2Mg3(SiO4)3",
+    "is_virtual": true,
+    "origin": "Y2Mg3(SiO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Er"
+  },
+  {
+    "material_id": "virtual_321",
+    "formula": "Lu2Mg3(SiO4)3",
+    "is_virtual": true,
+    "origin": "Y2Mg3(SiO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Lu"
+  },
+  {
+    "material_id": "virtual_322",
+    "formula": "Sm2Mg3(SiO4)3",
+    "is_virtual": true,
+    "origin": "Y2Mg3(SiO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Sm"
+  },
+  {
+    "material_id": "virtual_323",
+    "formula": "Mg3In2(SiO4)3",
+    "is_virtual": true,
+    "origin": "Mg3Sc2(SiO4)3",
+    "replaced_from": "Sc",
+    "replaced_to": "In"
+  },
+  {
+    "material_id": "virtual_324",
+    "formula": "Gd2Mn3(SiO4)3",
+    "is_virtual": true,
+    "origin": "Y2Mn3(SiO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Gd"
+  },
+  {
+    "material_id": "virtual_325",
+    "formula": "Dy2Mn3(SiO4)3",
+    "is_virtual": true,
+    "origin": "Y2Mn3(SiO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Dy"
+  },
+  {
+    "material_id": "virtual_326",
+    "formula": "Ho2Mn3(SiO4)3",
+    "is_virtual": true,
+    "origin": "Y2Mn3(SiO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Ho"
+  },
+  {
+    "material_id": "virtual_327",
+    "formula": "Er2Mn3(SiO4)3",
+    "is_virtual": true,
+    "origin": "Y2Mn3(SiO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Er"
+  },
+  {
+    "material_id": "virtual_328",
+    "formula": "Lu2Mn3(SiO4)3",
+    "is_virtual": true,
+    "origin": "Y2Mn3(SiO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Lu"
+  },
+  {
+    "material_id": "virtual_329",
+    "formula": "Sm2Mn3(SiO4)3",
+    "is_virtual": true,
+    "origin": "Y2Mn3(SiO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Sm"
+  },
+  {
+    "material_id": "virtual_330",
+    "formula": "Na3Al2V3O12",
+    "is_virtual": true,
+    "origin": "Na3Sc2V3O12",
+    "replaced_from": "Sc",
+    "replaced_to": "Al"
+  },
+  {
+    "material_id": "virtual_331",
+    "formula": "Na3V3In2O12",
+    "is_virtual": true,
+    "origin": "Na3Sc2V3O12",
+    "replaced_from": "Sc",
+    "replaced_to": "In"
+  },
+  {
+    "material_id": "virtual_332",
+    "formula": "Na3Lu2V3O12",
+    "is_virtual": true,
+    "origin": "Na3Sc2V3O12",
+    "replaced_from": "Sc",
+    "replaced_to": "Lu"
+  },
+  {
+    "material_id": "virtual_333",
+    "formula": "Gd2Si3(NiO4)3",
+    "is_virtual": true,
+    "origin": "Y2Si3(NiO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Gd"
+  },
+  {
+    "material_id": "virtual_334",
+    "formula": "Dy2Si3(NiO4)3",
+    "is_virtual": true,
+    "origin": "Y2Si3(NiO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Dy"
+  },
+  {
+    "material_id": "virtual_335",
+    "formula": "Ho2Si3(NiO4)3",
+    "is_virtual": true,
+    "origin": "Y2Si3(NiO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Ho"
+  },
+  {
+    "material_id": "virtual_336",
+    "formula": "Er2Si3(NiO4)3",
+    "is_virtual": true,
+    "origin": "Y2Si3(NiO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Er"
+  },
+  {
+    "material_id": "virtual_337",
+    "formula": "Lu2Si3(NiO4)3",
+    "is_virtual": true,
+    "origin": "Y2Si3(NiO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Lu"
+  },
+  {
+    "material_id": "virtual_338",
+    "formula": "Sm2Si3(NiO4)3",
+    "is_virtual": true,
+    "origin": "Y2Si3(NiO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Sm"
+  },
+  {
+    "material_id": "virtual_339",
+    "formula": "Sr3In2(SiO4)3",
+    "is_virtual": true,
+    "origin": "Sr3Sc2(SiO4)3",
+    "replaced_from": "Sc",
+    "replaced_to": "In"
+  },
+  {
+    "material_id": "virtual_340",
+    "formula": "Sr3Lu2(SiO4)3",
+    "is_virtual": true,
+    "origin": "Sr3Sc2(SiO4)3",
+    "replaced_from": "Sc",
+    "replaced_to": "Lu"
+  },
+  {
+    "material_id": "virtual_341",
+    "formula": "Gd2Si3(SnO4)3",
+    "is_virtual": true,
+    "origin": "Y2Si3(SnO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Gd"
+  },
+  {
+    "material_id": "virtual_342",
+    "formula": "Dy2Si3(SnO4)3",
+    "is_virtual": true,
+    "origin": "Y2Si3(SnO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Dy"
+  },
+  {
+    "material_id": "virtual_343",
+    "formula": "Ho2Si3(SnO4)3",
+    "is_virtual": true,
+    "origin": "Y2Si3(SnO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Ho"
+  },
+  {
+    "material_id": "virtual_344",
+    "formula": "Er2Si3(SnO4)3",
+    "is_virtual": true,
+    "origin": "Y2Si3(SnO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Er"
+  },
+  {
+    "material_id": "virtual_345",
+    "formula": "Lu2Si3(SnO4)3",
+    "is_virtual": true,
+    "origin": "Y2Si3(SnO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Lu"
+  },
+  {
+    "material_id": "virtual_346",
+    "formula": "Sm2Si3(SnO4)3",
+    "is_virtual": true,
+    "origin": "Y2Si3(SnO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Sm"
+  },
+  {
+    "material_id": "virtual_347",
+    "formula": "Gd2Ti3(SiO4)3",
+    "is_virtual": true,
+    "origin": "Y2Ti3(SiO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Gd"
+  },
+  {
+    "material_id": "virtual_348",
+    "formula": "Dy2Ti3(SiO4)3",
+    "is_virtual": true,
+    "origin": "Y2Ti3(SiO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Dy"
+  },
+  {
+    "material_id": "virtual_349",
+    "formula": "Ho2Ti3(SiO4)3",
+    "is_virtual": true,
+    "origin": "Y2Ti3(SiO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Ho"
+  },
+  {
+    "material_id": "virtual_350",
+    "formula": "Er2Ti3(SiO4)3",
+    "is_virtual": true,
+    "origin": "Y2Ti3(SiO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Er"
+  },
+  {
+    "material_id": "virtual_351",
+    "formula": "Lu2Ti3(SiO4)3",
+    "is_virtual": true,
+    "origin": "Y2Ti3(SiO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Lu"
+  },
+  {
+    "material_id": "virtual_352",
+    "formula": "Sm2Ti3(SiO4)3",
+    "is_virtual": true,
+    "origin": "Y2Ti3(SiO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Sm"
+  },
+  {
+    "material_id": "virtual_353",
+    "formula": "Gd2V3(SiO4)3",
+    "is_virtual": true,
+    "origin": "Y2V3(SiO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Gd"
+  },
+  {
+    "material_id": "virtual_354",
+    "formula": "Dy2V3(SiO4)3",
+    "is_virtual": true,
+    "origin": "Y2V3(SiO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Dy"
+  },
+  {
+    "material_id": "virtual_355",
+    "formula": "Ho2V3(SiO4)3",
+    "is_virtual": true,
+    "origin": "Y2V3(SiO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Ho"
+  },
+  {
+    "material_id": "virtual_356",
+    "formula": "Er2V3(SiO4)3",
+    "is_virtual": true,
+    "origin": "Y2V3(SiO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Er"
+  },
+  {
+    "material_id": "virtual_357",
+    "formula": "Lu2V3(SiO4)3",
+    "is_virtual": true,
+    "origin": "Y2V3(SiO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Lu"
+  },
+  {
+    "material_id": "virtual_358",
+    "formula": "Sm2V3(SiO4)3",
+    "is_virtual": true,
+    "origin": "Y2V3(SiO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Sm"
+  },
+  {
+    "material_id": "virtual_359",
+    "formula": "Gd2Si3(WO4)3",
+    "is_virtual": true,
+    "origin": "Y2Si3(WO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Gd"
+  },
+  {
+    "material_id": "virtual_360",
+    "formula": "Dy2Si3(WO4)3",
+    "is_virtual": true,
+    "origin": "Y2Si3(WO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Dy"
+  },
+  {
+    "material_id": "virtual_361",
+    "formula": "Ho2Si3(WO4)3",
+    "is_virtual": true,
+    "origin": "Y2Si3(WO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Ho"
+  },
+  {
+    "material_id": "virtual_362",
+    "formula": "Er2Si3(WO4)3",
+    "is_virtual": true,
+    "origin": "Y2Si3(WO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Er"
+  },
+  {
+    "material_id": "virtual_363",
+    "formula": "Lu2Si3(WO4)3",
+    "is_virtual": true,
+    "origin": "Y2Si3(WO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Lu"
+  },
+  {
+    "material_id": "virtual_364",
+    "formula": "Sm2Si3(WO4)3",
+    "is_virtual": true,
+    "origin": "Y2Si3(WO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Sm"
+  },
+  {
+    "material_id": "virtual_365",
+    "formula": "Mg5(AsO4)3",
+    "is_virtual": true,
+    "origin": "Ca3Mg2(AsO4)3",
+    "replaced_from": "Ca",
+    "replaced_to": "Mg"
+  },
+  {
+    "material_id": "virtual_366",
+    "formula": "K3Al2(AsO4)3",
+    "is_virtual": true,
+    "origin": "K3Cr2(AsO4)3",
+    "replaced_from": "Cr",
+    "replaced_to": "Al"
+  },
+  {
+    "material_id": "virtual_367",
+    "formula": "K3Fe2(AsO4)3",
+    "is_virtual": true,
+    "origin": "K3Cr2(AsO4)3",
+    "replaced_from": "Cr",
+    "replaced_to": "Fe"
+  },
+  {
+    "material_id": "virtual_368",
+    "formula": "K3V2(AsO4)3",
+    "is_virtual": true,
+    "origin": "K3Cr2(AsO4)3",
+    "replaced_from": "Cr",
+    "replaced_to": "V"
+  },
+  {
+    "material_id": "virtual_369",
+    "formula": "Na3Al2(AsO4)3",
+    "is_virtual": true,
+    "origin": "Na3Cr2(AsO4)3",
+    "replaced_from": "Cr",
+    "replaced_to": "Al"
+  },
+  {
+    "material_id": "virtual_370",
+    "formula": "Na3V2(AsO4)3",
+    "is_virtual": true,
+    "origin": "Na3Cr2(AsO4)3",
+    "replaced_from": "Cr",
+    "replaced_to": "V"
+  },
+  {
+    "material_id": "virtual_371",
+    "formula": "Li3Al2(AsO4)3",
+    "is_virtual": true,
+    "origin": "Li3Cr2(AsO4)3",
+    "replaced_from": "Cr",
+    "replaced_to": "Al"
+  },
+  {
+    "material_id": "virtual_372",
+    "formula": "Li3Fe2(AsO4)3",
+    "is_virtual": true,
+    "origin": "Li3Cr2(AsO4)3",
+    "replaced_from": "Cr",
+    "replaced_to": "Fe"
+  },
+  {
+    "material_id": "virtual_373",
+    "formula": "Li3V2(AsO4)3",
+    "is_virtual": true,
+    "origin": "Li3Cr2(AsO4)3",
+    "replaced_from": "Cr",
+    "replaced_to": "V"
+  },
+  {
+    "material_id": "virtual_374",
+    "formula": "Na3Ga2(AsO4)3",
+    "is_virtual": true,
+    "origin": "Na3Fe2(AsO4)3",
+    "replaced_from": "Fe",
+    "replaced_to": "Ga"
+  },
+  {
+    "material_id": "virtual_375",
+    "formula": "Mg3Ag2(GeO4)3",
+    "is_virtual": true,
+    "origin": "Ca3Ag2(GeO4)3",
+    "replaced_from": "Ca",
+    "replaced_to": "Mg"
+  },
+  {
+    "material_id": "virtual_376",
+    "formula": "Ba3Cr2(SiO4)3",
+    "is_virtual": true,
+    "origin": "Ba3Al2(SiO4)3",
+    "replaced_from": "Al",
+    "replaced_to": "Cr"
+  },
+  {
+    "material_id": "virtual_377",
+    "formula": "Ba3Fe2(SiO4)3",
+    "is_virtual": true,
+    "origin": "Ba3Al2(SiO4)3",
+    "replaced_from": "Al",
+    "replaced_to": "Fe"
+  },
+  {
+    "material_id": "virtual_378",
+    "formula": "Ba3Ga2(SiO4)3",
+    "is_virtual": true,
+    "origin": "Ba3Al2(SiO4)3",
+    "replaced_from": "Al",
+    "replaced_to": "Ga"
+  },
+  {
+    "material_id": "virtual_379",
+    "formula": "Ba3Sc2(SiO4)3",
+    "is_virtual": true,
+    "origin": "Ba3Al2(SiO4)3",
+    "replaced_from": "Al",
+    "replaced_to": "Sc"
+  },
+  {
+    "material_id": "virtual_380",
+    "formula": "Ba3Cr2O12",
+    "is_virtual": true,
+    "origin": "Ba3Al2O12",
+    "replaced_from": "Al",
+    "replaced_to": "Cr"
+  },
+  {
+    "material_id": "virtual_381",
+    "formula": "Ba3(FeO6)2",
+    "is_virtual": true,
+    "origin": "Ba3Al2O12",
+    "replaced_from": "Al",
+    "replaced_to": "Fe"
+  },
+  {
+    "material_id": "virtual_382",
+    "formula": "Ba3(GaO6)2",
+    "is_virtual": true,
+    "origin": "Ba3Al2O12",
+    "replaced_from": "Al",
+    "replaced_to": "Ga"
+  },
+  {
+    "material_id": "virtual_383",
+    "formula": "Ba3Sc2O12",
+    "is_virtual": true,
+    "origin": "Ba3Al2O12",
+    "replaced_from": "Al",
+    "replaced_to": "Sc"
+  },
+  {
+    "material_id": "virtual_384",
+    "formula": "Mg3Al2(HO)12",
+    "is_virtual": true,
+    "origin": "Ca3Al2(HO)12",
+    "replaced_from": "Ca",
+    "replaced_to": "Mg"
+  },
+  {
+    "material_id": "virtual_385",
+    "formula": "Ca3Cr2(HO)12",
+    "is_virtual": true,
+    "origin": "Ca3Al2(HO)12",
+    "replaced_from": "Al",
+    "replaced_to": "Cr"
+  },
+  {
+    "material_id": "virtual_386",
+    "formula": "Ca3Fe2(HO)12",
+    "is_virtual": true,
+    "origin": "Ca3Al2(HO)12",
+    "replaced_from": "Al",
+    "replaced_to": "Fe"
+  },
+  {
+    "material_id": "virtual_387",
+    "formula": "Ca3Ga2(HO)12",
+    "is_virtual": true,
+    "origin": "Ca3Al2(HO)12",
+    "replaced_from": "Al",
+    "replaced_to": "Ga"
+  },
+  {
+    "material_id": "virtual_388",
+    "formula": "Ca3Sc2(HO)12",
+    "is_virtual": true,
+    "origin": "Ca3Al2(HO)12",
+    "replaced_from": "Al",
+    "replaced_to": "Sc"
+  },
+  {
+    "material_id": "virtual_389",
+    "formula": "Mg3Al2O12",
+    "is_virtual": true,
+    "origin": "Ca3Al2O12",
+    "replaced_from": "Ca",
+    "replaced_to": "Mg"
+  },
+  {
+    "material_id": "virtual_390",
+    "formula": "Ca3Cr2O12",
+    "is_virtual": true,
+    "origin": "Ca3Al2O12",
+    "replaced_from": "Al",
+    "replaced_to": "Cr"
+  },
+  {
+    "material_id": "virtual_391",
+    "formula": "Ca3(FeO6)2",
+    "is_virtual": true,
+    "origin": "Ca3Al2O12",
+    "replaced_from": "Al",
+    "replaced_to": "Fe"
+  },
+  {
+    "material_id": "virtual_392",
+    "formula": "Ca3(GaO6)2",
+    "is_virtual": true,
+    "origin": "Ca3Al2O12",
+    "replaced_from": "Al",
+    "replaced_to": "Ga"
+  },
+  {
+    "material_id": "virtual_393",
+    "formula": "Ca3Sc2O12",
+    "is_virtual": true,
+    "origin": "Ca3Al2O12",
+    "replaced_from": "Al",
+    "replaced_to": "Sc"
+  },
+  {
+    "material_id": "virtual_394",
+    "formula": "Er3Cr5O12",
+    "is_virtual": true,
+    "origin": "Er3Al3Cr2O12",
+    "replaced_from": "Al",
+    "replaced_to": "Cr"
+  },
+  {
+    "material_id": "virtual_395",
+    "formula": "Er3Cr2(FeO4)3",
+    "is_virtual": true,
+    "origin": "Er3Al3Cr2O12",
+    "replaced_from": "Al",
+    "replaced_to": "Fe"
+  },
+  {
+    "material_id": "virtual_396",
+    "formula": "Er3Cr2(GaO4)3",
+    "is_virtual": true,
+    "origin": "Er3Al3Cr2O12",
+    "replaced_from": "Al",
+    "replaced_to": "Ga"
+  },
+  {
+    "material_id": "virtual_397",
+    "formula": "Er3Sc3Cr2O12",
+    "is_virtual": true,
+    "origin": "Er3Al3Cr2O12",
+    "replaced_from": "Al",
+    "replaced_to": "Sc"
+  },
+  {
+    "material_id": "virtual_398",
+    "formula": "Er3Al3(FeO6)2",
+    "is_virtual": true,
+    "origin": "Er3Al3Cr2O12",
+    "replaced_from": "Cr",
+    "replaced_to": "Fe"
+  },
+  {
+    "material_id": "virtual_399",
+    "formula": "Er3Al3V2O12",
+    "is_virtual": true,
+    "origin": "Er3Al3Cr2O12",
+    "replaced_from": "Cr",
+    "replaced_to": "V"
+  },
+  {
+    "material_id": "virtual_400",
+    "formula": "Gd3Al3Cr2O12",
+    "is_virtual": true,
+    "origin": "Y3Al3Cr2O12",
+    "replaced_from": "Y",
+    "replaced_to": "Gd"
+  },
+  {
+    "material_id": "virtual_401",
+    "formula": "Dy3Al3Cr2O12",
+    "is_virtual": true,
+    "origin": "Y3Al3Cr2O12",
+    "replaced_from": "Y",
+    "replaced_to": "Dy"
+  },
+  {
+    "material_id": "virtual_402",
+    "formula": "Ho3Al3Cr2O12",
+    "is_virtual": true,
+    "origin": "Y3Al3Cr2O12",
+    "replaced_from": "Y",
+    "replaced_to": "Ho"
+  },
+  {
+    "material_id": "virtual_403",
+    "formula": "Lu3Al3Cr2O12",
+    "is_virtual": true,
+    "origin": "Y3Al3Cr2O12",
+    "replaced_from": "Y",
+    "replaced_to": "Lu"
+  },
+  {
+    "material_id": "virtual_404",
+    "formula": "Sm3Al3Cr2O12",
+    "is_virtual": true,
+    "origin": "Y3Al3Cr2O12",
+    "replaced_from": "Y",
+    "replaced_to": "Sm"
+  },
+  {
+    "material_id": "virtual_405",
+    "formula": "Y3Cr5O12",
+    "is_virtual": true,
+    "origin": "Y3Al3Cr2O12",
+    "replaced_from": "Al",
+    "replaced_to": "Cr"
+  },
+  {
+    "material_id": "virtual_406",
+    "formula": "Y3Cr2(FeO4)3",
+    "is_virtual": true,
+    "origin": "Y3Al3Cr2O12",
+    "replaced_from": "Al",
+    "replaced_to": "Fe"
+  },
+  {
+    "material_id": "virtual_407",
+    "formula": "Y3Sc3Cr2O12",
+    "is_virtual": true,
+    "origin": "Y3Al3Cr2O12",
+    "replaced_from": "Al",
+    "replaced_to": "Sc"
+  },
+  {
+    "material_id": "virtual_408",
+    "formula": "Y3Al3(FeO6)2",
+    "is_virtual": true,
+    "origin": "Y3Al3Cr2O12",
+    "replaced_from": "Cr",
+    "replaced_to": "Fe"
+  },
+  {
+    "material_id": "virtual_409",
+    "formula": "Cr5(SiO4)3",
+    "is_virtual": true,
+    "origin": "Al2Cr3(SiO4)3",
+    "replaced_from": "Al",
+    "replaced_to": "Cr"
+  },
+  {
+    "material_id": "virtual_410",
+    "formula": "Cr3Fe2(SiO4)3",
+    "is_virtual": true,
+    "origin": "Al2Cr3(SiO4)3",
+    "replaced_from": "Al",
+    "replaced_to": "Fe"
+  },
+  {
+    "material_id": "virtual_411",
+    "formula": "Cr3Ga2(SiO4)3",
+    "is_virtual": true,
+    "origin": "Al2Cr3(SiO4)3",
+    "replaced_from": "Al",
+    "replaced_to": "Ga"
+  },
+  {
+    "material_id": "virtual_412",
+    "formula": "Sc2Cr3(SiO4)3",
+    "is_virtual": true,
+    "origin": "Al2Cr3(SiO4)3",
+    "replaced_from": "Al",
+    "replaced_to": "Sc"
+  },
+  {
+    "material_id": "virtual_413",
+    "formula": "Al5(SiO4)3",
+    "is_virtual": true,
+    "origin": "Al2Cr3(SiO4)3",
+    "replaced_from": "Cr",
+    "replaced_to": "Al"
+  },
+  {
+    "material_id": "virtual_414",
+    "formula": "Cr2Cd3(GeO4)3",
+    "is_virtual": true,
+    "origin": "Al2Cd3(GeO4)3",
+    "replaced_from": "Al",
+    "replaced_to": "Cr"
+  },
+  {
+    "material_id": "virtual_415",
+    "formula": "Cr2Cd3(SiO4)3",
+    "is_virtual": true,
+    "origin": "Al2Cd3(SiO4)3",
+    "replaced_from": "Al",
+    "replaced_to": "Cr"
+  },
+  {
+    "material_id": "virtual_416",
+    "formula": "Cd3Fe2(SiO4)3",
+    "is_virtual": true,
+    "origin": "Al2Cd3(SiO4)3",
+    "replaced_from": "Al",
+    "replaced_to": "Fe"
+  },
+  {
+    "material_id": "virtual_417",
+    "formula": "Cd3Ga2(SiO4)3",
+    "is_virtual": true,
+    "origin": "Al2Cd3(SiO4)3",
+    "replaced_from": "Al",
+    "replaced_to": "Ga"
+  },
+  {
+    "material_id": "virtual_418",
+    "formula": "Sc2Cd3(SiO4)3",
+    "is_virtual": true,
+    "origin": "Al2Cd3(SiO4)3",
+    "replaced_from": "Al",
+    "replaced_to": "Sc"
+  },
+  {
+    "material_id": "virtual_419",
+    "formula": "Cr2Cu3(SiO4)3",
+    "is_virtual": true,
+    "origin": "Al2Cu3(SiO4)3",
+    "replaced_from": "Al",
+    "replaced_to": "Cr"
+  },
+  {
+    "material_id": "virtual_420",
+    "formula": "Fe2Cu3(SiO4)3",
+    "is_virtual": true,
+    "origin": "Al2Cu3(SiO4)3",
+    "replaced_from": "Al",
+    "replaced_to": "Fe"
+  },
+  {
+    "material_id": "virtual_421",
+    "formula": "Ga2Cu3(SiO4)3",
+    "is_virtual": true,
+    "origin": "Al2Cu3(SiO4)3",
+    "replaced_from": "Al",
+    "replaced_to": "Ga"
+  },
+  {
+    "material_id": "virtual_422",
+    "formula": "Sc2Cu3(SiO4)3",
+    "is_virtual": true,
+    "origin": "Al2Cu3(SiO4)3",
+    "replaced_from": "Al",
+    "replaced_to": "Sc"
+  },
+  {
+    "material_id": "virtual_423",
+    "formula": "Cr2Co3(SiO4)3",
+    "is_virtual": true,
+    "origin": "Al2Co3(SiO4)3",
+    "replaced_from": "Al",
+    "replaced_to": "Cr"
+  },
+  {
+    "material_id": "virtual_424",
+    "formula": "Fe2Co3(SiO4)3",
+    "is_virtual": true,
+    "origin": "Al2Co3(SiO4)3",
+    "replaced_from": "Al",
+    "replaced_to": "Fe"
+  },
+  {
+    "material_id": "virtual_425",
+    "formula": "Ga2Co3(SiO4)3",
+    "is_virtual": true,
+    "origin": "Al2Co3(SiO4)3",
+    "replaced_from": "Al",
+    "replaced_to": "Ga"
+  },
+  {
+    "material_id": "virtual_426",
+    "formula": "Sc2Co3(SiO4)3",
+    "is_virtual": true,
+    "origin": "Al2Co3(SiO4)3",
+    "replaced_from": "Al",
+    "replaced_to": "Sc"
+  },
+  {
+    "material_id": "virtual_427",
+    "formula": "Dy3Cr5O12",
+    "is_virtual": true,
+    "origin": "Dy3Al5O12",
+    "replaced_from": "Al",
+    "replaced_to": "Cr"
+  },
+  {
+    "material_id": "virtual_428",
+    "formula": "Dy3Sc5O12",
+    "is_virtual": true,
+    "origin": "Dy3Al5O12",
+    "replaced_from": "Al",
+    "replaced_to": "Sc"
+  },
+  {
+    "material_id": "virtual_429",
+    "formula": "Dy3Al3In2O12",
+    "is_virtual": true,
+    "origin": "Dy3Sc2Al3O12",
+    "replaced_from": "Sc",
+    "replaced_to": "In"
+  },
+  {
+    "material_id": "virtual_430",
+    "formula": "Dy3Lu2Al3O12",
+    "is_virtual": true,
+    "origin": "Dy3Sc2Al3O12",
+    "replaced_from": "Sc",
+    "replaced_to": "Lu"
+  },
+  {
+    "material_id": "virtual_431",
+    "formula": "Dy3Sc2Cr3O12",
+    "is_virtual": true,
+    "origin": "Dy3Sc2Al3O12",
+    "replaced_from": "Al",
+    "replaced_to": "Cr"
+  },
+  {
+    "material_id": "virtual_432",
+    "formula": "Dy3Sc2(FeO4)3",
+    "is_virtual": true,
+    "origin": "Dy3Sc2Al3O12",
+    "replaced_from": "Al",
+    "replaced_to": "Fe"
+  },
+  {
+    "material_id": "virtual_433",
+    "formula": "Dy3Sc2(GaO4)3",
+    "is_virtual": true,
+    "origin": "Dy3Sc2Al3O12",
+    "replaced_from": "Al",
+    "replaced_to": "Ga"
+  },
+  {
+    "material_id": "virtual_434",
+    "formula": "Er3Sc5O12",
+    "is_virtual": true,
+    "origin": "Er3Al5O12",
+    "replaced_from": "Al",
+    "replaced_to": "Sc"
+  },
+  {
+    "material_id": "virtual_435",
+    "formula": "Er3Al3In2O12",
+    "is_virtual": true,
+    "origin": "Er3Sc2Al3O12",
+    "replaced_from": "Sc",
+    "replaced_to": "In"
+  },
+  {
+    "material_id": "virtual_436",
+    "formula": "Er3Lu2Al3O12",
+    "is_virtual": true,
+    "origin": "Er3Sc2Al3O12",
+    "replaced_from": "Sc",
+    "replaced_to": "Lu"
+  },
+  {
+    "material_id": "virtual_437",
+    "formula": "Er3Sc2Cr3O12",
+    "is_virtual": true,
+    "origin": "Er3Sc2Al3O12",
+    "replaced_from": "Al",
+    "replaced_to": "Cr"
+  },
+  {
+    "material_id": "virtual_438",
+    "formula": "Er3Sc2(FeO4)3",
+    "is_virtual": true,
+    "origin": "Er3Sc2Al3O12",
+    "replaced_from": "Al",
+    "replaced_to": "Fe"
+  },
+  {
+    "material_id": "virtual_439",
+    "formula": "Er3Sc2(GaO4)3",
+    "is_virtual": true,
+    "origin": "Er3Sc2Al3O12",
+    "replaced_from": "Al",
+    "replaced_to": "Ga"
+  },
+  {
+    "material_id": "virtual_440",
+    "formula": "Eu3Cr5O12",
+    "is_virtual": true,
+    "origin": "Eu3Al5O12",
+    "replaced_from": "Al",
+    "replaced_to": "Cr"
+  },
+  {
+    "material_id": "virtual_441",
+    "formula": "Eu3Sc5O12",
+    "is_virtual": true,
+    "origin": "Eu3Al5O12",
+    "replaced_from": "Al",
+    "replaced_to": "Sc"
+  },
+  {
+    "material_id": "virtual_442",
+    "formula": "Eu3Al3In2O12",
+    "is_virtual": true,
+    "origin": "Eu3Sc2Al3O12",
+    "replaced_from": "Sc",
+    "replaced_to": "In"
+  },
+  {
+    "material_id": "virtual_443",
+    "formula": "Eu3Lu2Al3O12",
+    "is_virtual": true,
+    "origin": "Eu3Sc2Al3O12",
+    "replaced_from": "Sc",
+    "replaced_to": "Lu"
+  },
+  {
+    "material_id": "virtual_444",
+    "formula": "Eu3Sc2Cr3O12",
+    "is_virtual": true,
+    "origin": "Eu3Sc2Al3O12",
+    "replaced_from": "Al",
+    "replaced_to": "Cr"
+  },
+  {
+    "material_id": "virtual_445",
+    "formula": "Eu3Sc2(GaO4)3",
+    "is_virtual": true,
+    "origin": "Eu3Sc2Al3O12",
+    "replaced_from": "Al",
+    "replaced_to": "Ga"
+  },
+  {
+    "material_id": "virtual_446",
+    "formula": "Ga2Fe3(SiO4)3",
+    "is_virtual": true,
+    "origin": "Al2Fe3(SiO4)3",
+    "replaced_from": "Al",
+    "replaced_to": "Ga"
+  },
+  {
+    "material_id": "virtual_447",
+    "formula": "Sc2Fe3(SiO4)3",
+    "is_virtual": true,
+    "origin": "Al2Fe3(SiO4)3",
+    "replaced_from": "Al",
+    "replaced_to": "Sc"
+  },
+  {
+    "material_id": "virtual_448",
+    "formula": "Al2Ga3(SiO4)3",
+    "is_virtual": true,
+    "origin": "Al2Fe3(SiO4)3",
+    "replaced_from": "Fe",
+    "replaced_to": "Ga"
+  },
+  {
+    "material_id": "virtual_449",
+    "formula": "Yb3Al2(GaO4)3",
+    "is_virtual": true,
+    "origin": "Lu3Al2(GaO4)3",
+    "replaced_from": "Lu",
+    "replaced_to": "Yb"
+  },
+  {
+    "material_id": "virtual_450",
+    "formula": "Lu3Cr2(GaO4)3",
+    "is_virtual": true,
+    "origin": "Lu3Al2(GaO4)3",
+    "replaced_from": "Al",
+    "replaced_to": "Cr"
+  },
+  {
+    "material_id": "virtual_451",
+    "formula": "Lu3Ga3(FeO6)2",
+    "is_virtual": true,
+    "origin": "Lu3Al2(GaO4)3",
+    "replaced_from": "Al",
+    "replaced_to": "Fe"
+  },
+  {
+    "material_id": "virtual_452",
+    "formula": "Lu3Al2In3O12",
+    "is_virtual": true,
+    "origin": "Lu3Al2(GaO4)3",
+    "replaced_from": "Ga",
+    "replaced_to": "In"
+  },
+  {
+    "material_id": "virtual_453",
+    "formula": "Yb3Al3(GaO6)2",
+    "is_virtual": true,
+    "origin": "Lu3Al3(GaO6)2",
+    "replaced_from": "Lu",
+    "replaced_to": "Yb"
+  },
+  {
+    "material_id": "virtual_454",
+    "formula": "Lu3Cr3(GaO6)2",
+    "is_virtual": true,
+    "origin": "Lu3Al3(GaO6)2",
+    "replaced_from": "Al",
+    "replaced_to": "Cr"
+  },
+  {
+    "material_id": "virtual_455",
+    "formula": "Lu3Ga2(FeO4)3",
+    "is_virtual": true,
+    "origin": "Lu3Al3(GaO6)2",
+    "replaced_from": "Al",
+    "replaced_to": "Fe"
+  },
+  {
+    "material_id": "virtual_456",
+    "formula": "Lu3Al3In2O12",
+    "is_virtual": true,
+    "origin": "Lu3Al3(GaO6)2",
+    "replaced_from": "Ga",
+    "replaced_to": "In"
+  },
+  {
+    "material_id": "virtual_457",
+    "formula": "Gd3Al2(GaO4)3",
+    "is_virtual": true,
+    "origin": "Y3Al2(GaO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Gd"
+  },
+  {
+    "material_id": "virtual_458",
+    "formula": "Dy3Al2(GaO4)3",
+    "is_virtual": true,
+    "origin": "Y3Al2(GaO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Dy"
+  },
+  {
+    "material_id": "virtual_459",
+    "formula": "Ho3Al2(GaO4)3",
+    "is_virtual": true,
+    "origin": "Y3Al2(GaO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Ho"
+  },
+  {
+    "material_id": "virtual_460",
+    "formula": "Er3Al2(GaO4)3",
+    "is_virtual": true,
+    "origin": "Y3Al2(GaO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Er"
+  },
+  {
+    "material_id": "virtual_461",
+    "formula": "Sm3Al2(GaO4)3",
+    "is_virtual": true,
+    "origin": "Y3Al2(GaO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Sm"
+  },
+  {
+    "material_id": "virtual_462",
+    "formula": "Y3Al2In3O12",
+    "is_virtual": true,
+    "origin": "Y3Al2(GaO4)3",
+    "replaced_from": "Ga",
+    "replaced_to": "In"
+  },
+  {
+    "material_id": "virtual_463",
+    "formula": "Gd3Al3(GaO6)2",
+    "is_virtual": true,
+    "origin": "Y3Al3(GaO6)2",
+    "replaced_from": "Y",
+    "replaced_to": "Gd"
+  },
+  {
+    "material_id": "virtual_464",
+    "formula": "Dy3Al3(GaO6)2",
+    "is_virtual": true,
+    "origin": "Y3Al3(GaO6)2",
+    "replaced_from": "Y",
+    "replaced_to": "Dy"
+  },
+  {
+    "material_id": "virtual_465",
+    "formula": "Ho3Al3(GaO6)2",
+    "is_virtual": true,
+    "origin": "Y3Al3(GaO6)2",
+    "replaced_from": "Y",
+    "replaced_to": "Ho"
+  },
+  {
+    "material_id": "virtual_466",
+    "formula": "Er3Al3(GaO6)2",
+    "is_virtual": true,
+    "origin": "Y3Al3(GaO6)2",
+    "replaced_from": "Y",
+    "replaced_to": "Er"
+  },
+  {
+    "material_id": "virtual_467",
+    "formula": "Sm3Al3(GaO6)2",
+    "is_virtual": true,
+    "origin": "Y3Al3(GaO6)2",
+    "replaced_from": "Y",
+    "replaced_to": "Sm"
+  },
+  {
+    "material_id": "virtual_468",
+    "formula": "Y3Cr3(GaO6)2",
+    "is_virtual": true,
+    "origin": "Y3Al3(GaO6)2",
+    "replaced_from": "Al",
+    "replaced_to": "Cr"
+  },
+  {
+    "material_id": "virtual_469",
+    "formula": "Y3Ga2(FeO4)3",
+    "is_virtual": true,
+    "origin": "Y3Al3(GaO6)2",
+    "replaced_from": "Al",
+    "replaced_to": "Fe"
+  },
+  {
+    "material_id": "virtual_470",
+    "formula": "Y3Al3In2O12",
+    "is_virtual": true,
+    "origin": "Y3Al3(GaO6)2",
+    "replaced_from": "Ga",
+    "replaced_to": "In"
+  },
+  {
+    "material_id": "virtual_471",
+    "formula": "Nd3Al5O12",
+    "is_virtual": true,
+    "origin": "Gd3Al5O12",
+    "replaced_from": "Gd",
+    "replaced_to": "Nd"
+  },
+  {
+    "material_id": "virtual_472",
+    "formula": "Gd3Cr5O12",
+    "is_virtual": true,
+    "origin": "Gd3Al5O12",
+    "replaced_from": "Al",
+    "replaced_to": "Cr"
+  },
+  {
+    "material_id": "virtual_473",
+    "formula": "Gd3Sc5O12",
+    "is_virtual": true,
+    "origin": "Gd3Al5O12",
+    "replaced_from": "Al",
+    "replaced_to": "Sc"
+  },
+  {
+    "material_id": "virtual_474",
+    "formula": "Nd3Sc2Al3O12",
+    "is_virtual": true,
+    "origin": "Gd3Sc2Al3O12",
+    "replaced_from": "Gd",
+    "replaced_to": "Nd"
+  },
+  {
+    "material_id": "virtual_475",
+    "formula": "Tb3Sc2Al3O12",
+    "is_virtual": true,
+    "origin": "Gd3Sc2Al3O12",
+    "replaced_from": "Gd",
+    "replaced_to": "Tb"
+  },
+  {
+    "material_id": "virtual_476",
+    "formula": "Gd3Al3In2O12",
+    "is_virtual": true,
+    "origin": "Gd3Sc2Al3O12",
+    "replaced_from": "Sc",
+    "replaced_to": "In"
+  },
+  {
+    "material_id": "virtual_477",
+    "formula": "Gd3Lu2Al3O12",
+    "is_virtual": true,
+    "origin": "Gd3Sc2Al3O12",
+    "replaced_from": "Sc",
+    "replaced_to": "Lu"
+  },
+  {
+    "material_id": "virtual_478",
+    "formula": "Gd3Sc2Cr3O12",
+    "is_virtual": true,
+    "origin": "Gd3Sc2Al3O12",
+    "replaced_from": "Al",
+    "replaced_to": "Cr"
+  },
+  {
+    "material_id": "virtual_479",
+    "formula": "Gd3Sc2(FeO4)3",
+    "is_virtual": true,
+    "origin": "Gd3Sc2Al3O12",
+    "replaced_from": "Al",
+    "replaced_to": "Fe"
+  },
+  {
+    "material_id": "virtual_480",
+    "formula": "Mn3Cr2(GeO4)3",
+    "is_virtual": true,
+    "origin": "Mn3Al2(GeO4)3",
+    "replaced_from": "Al",
+    "replaced_to": "Cr"
+  },
+  {
+    "material_id": "virtual_481",
+    "formula": "Sc2Mn3(GeO4)3",
+    "is_virtual": true,
+    "origin": "Mn3Al2(GeO4)3",
+    "replaced_from": "Al",
+    "replaced_to": "Sc"
+  },
+  {
+    "material_id": "virtual_482",
+    "formula": "Sr3Cr2(GeO4)3",
+    "is_virtual": true,
+    "origin": "Sr3Al2(GeO4)3",
+    "replaced_from": "Al",
+    "replaced_to": "Cr"
+  },
+  {
+    "material_id": "virtual_483",
+    "formula": "Sr3Fe2(GeO4)3",
+    "is_virtual": true,
+    "origin": "Sr3Al2(GeO4)3",
+    "replaced_from": "Al",
+    "replaced_to": "Fe"
+  },
+  {
+    "material_id": "virtual_484",
+    "formula": "Sr3Cr2(HO)12",
+    "is_virtual": true,
+    "origin": "Sr3Al2(HO)12",
+    "replaced_from": "Al",
+    "replaced_to": "Cr"
+  },
+  {
+    "material_id": "virtual_485",
+    "formula": "Sr3Ga2(HO)12",
+    "is_virtual": true,
+    "origin": "Sr3Al2(HO)12",
+    "replaced_from": "Al",
+    "replaced_to": "Ga"
+  },
+  {
+    "material_id": "virtual_486",
+    "formula": "Sr3Sc2(HO)12",
+    "is_virtual": true,
+    "origin": "Sr3Al2(HO)12",
+    "replaced_from": "Al",
+    "replaced_to": "Sc"
+  },
+  {
+    "material_id": "virtual_487",
+    "formula": "Ho3Cr5O12",
+    "is_virtual": true,
+    "origin": "Ho3Al5O12",
+    "replaced_from": "Al",
+    "replaced_to": "Cr"
+  },
+  {
+    "material_id": "virtual_488",
+    "formula": "Ho3Sc5O12",
+    "is_virtual": true,
+    "origin": "Ho3Al5O12",
+    "replaced_from": "Al",
+    "replaced_to": "Sc"
+  },
+  {
+    "material_id": "virtual_489",
+    "formula": "Ho3Al3In2O12",
+    "is_virtual": true,
+    "origin": "Ho3Sc2Al3O12",
+    "replaced_from": "Sc",
+    "replaced_to": "In"
+  },
+  {
+    "material_id": "virtual_490",
+    "formula": "Ho3Lu2Al3O12",
+    "is_virtual": true,
+    "origin": "Ho3Sc2Al3O12",
+    "replaced_from": "Sc",
+    "replaced_to": "Lu"
+  },
+  {
+    "material_id": "virtual_491",
+    "formula": "Ho3Sc2Cr3O12",
+    "is_virtual": true,
+    "origin": "Ho3Sc2Al3O12",
+    "replaced_from": "Al",
+    "replaced_to": "Cr"
+  },
+  {
+    "material_id": "virtual_492",
+    "formula": "Ho3Sc2(FeO4)3",
+    "is_virtual": true,
+    "origin": "Ho3Sc2Al3O12",
+    "replaced_from": "Al",
+    "replaced_to": "Fe"
+  },
+  {
+    "material_id": "virtual_493",
+    "formula": "Ho3Sc2(GaO4)3",
+    "is_virtual": true,
+    "origin": "Ho3Sc2Al3O12",
+    "replaced_from": "Al",
+    "replaced_to": "Ga"
+  },
+  {
+    "material_id": "virtual_494",
+    "formula": "Pr3Al5O12",
+    "is_virtual": true,
+    "origin": "La3Al5O12",
+    "replaced_from": "La",
+    "replaced_to": "Pr"
+  },
+  {
+    "material_id": "virtual_495",
+    "formula": "La3Cr5O12",
+    "is_virtual": true,
+    "origin": "La3Al5O12",
+    "replaced_from": "Al",
+    "replaced_to": "Cr"
+  },
+  {
+    "material_id": "virtual_496",
+    "formula": "La3Sc5O12",
+    "is_virtual": true,
+    "origin": "La3Al5O12",
+    "replaced_from": "Al",
+    "replaced_to": "Sc"
+  },
+  {
+    "material_id": "virtual_497",
+    "formula": "Yb3Al5O12",
+    "is_virtual": true,
+    "origin": "Lu3Al5O12",
+    "replaced_from": "Lu",
+    "replaced_to": "Yb"
+  },
+  {
+    "material_id": "virtual_498",
+    "formula": "Lu3Cr5O12",
+    "is_virtual": true,
+    "origin": "Lu3Al5O12",
+    "replaced_from": "Al",
+    "replaced_to": "Cr"
+  },
+  {
+    "material_id": "virtual_499",
+    "formula": "Lu3Sc5O12",
+    "is_virtual": true,
+    "origin": "Lu3Al5O12",
+    "replaced_from": "Al",
+    "replaced_to": "Sc"
+  },
+  {
+    "material_id": "virtual_500",
+    "formula": "Yb3Sc2Al3O12",
+    "is_virtual": true,
+    "origin": "Lu3Sc2Al3O12",
+    "replaced_from": "Lu",
+    "replaced_to": "Yb"
+  },
+  {
+    "material_id": "virtual_501",
+    "formula": "Lu5Al3O12",
+    "is_virtual": true,
+    "origin": "Lu3Sc2Al3O12",
+    "replaced_from": "Sc",
+    "replaced_to": "Lu"
+  },
+  {
+    "material_id": "virtual_502",
+    "formula": "Lu3Sc2Cr3O12",
+    "is_virtual": true,
+    "origin": "Lu3Sc2Al3O12",
+    "replaced_from": "Al",
+    "replaced_to": "Cr"
+  },
+  {
+    "material_id": "virtual_503",
+    "formula": "Lu3Sc2(FeO4)3",
+    "is_virtual": true,
+    "origin": "Lu3Sc2Al3O12",
+    "replaced_from": "Al",
+    "replaced_to": "Fe"
+  },
+  {
+    "material_id": "virtual_504",
+    "formula": "Yb3Sc3Al2O12",
+    "is_virtual": true,
+    "origin": "Lu3Sc3Al2O12",
+    "replaced_from": "Lu",
+    "replaced_to": "Yb"
+  },
+  {
+    "material_id": "virtual_505",
+    "formula": "Lu3AlO6",
+    "is_virtual": true,
+    "origin": "Lu3Sc3Al2O12",
+    "replaced_from": "Sc",
+    "replaced_to": "Lu"
+  },
+  {
+    "material_id": "virtual_506",
+    "formula": "Lu3Sc3Cr2O12",
+    "is_virtual": true,
+    "origin": "Lu3Sc3Al2O12",
+    "replaced_from": "Al",
+    "replaced_to": "Cr"
+  },
+  {
+    "material_id": "virtual_507",
+    "formula": "Lu3Sc3(FeO6)2",
+    "is_virtual": true,
+    "origin": "Lu3Sc3Al2O12",
+    "replaced_from": "Al",
+    "replaced_to": "Fe"
+  },
+  {
+    "material_id": "virtual_508",
+    "formula": "Mn3Ga2(SiO4)3",
+    "is_virtual": true,
+    "origin": "Mn3Al2(SiO4)3",
+    "replaced_from": "Al",
+    "replaced_to": "Ga"
+  },
+  {
+    "material_id": "virtual_509",
+    "formula": "Sc2Mn3(SiO4)3",
+    "is_virtual": true,
+    "origin": "Mn3Al2(SiO4)3",
+    "replaced_from": "Al",
+    "replaced_to": "Sc"
+  },
+  {
+    "material_id": "virtual_510",
+    "formula": "Na3Cr2(PO4)3",
+    "is_virtual": true,
+    "origin": "Na3Al2(PO4)3",
+    "replaced_from": "Al",
+    "replaced_to": "Cr"
+  },
+  {
+    "material_id": "virtual_511",
+    "formula": "Na3Fe2(PO4)3",
+    "is_virtual": true,
+    "origin": "Na3Al2(PO4)3",
+    "replaced_from": "Al",
+    "replaced_to": "Fe"
+  },
+  {
+    "material_id": "virtual_512",
+    "formula": "Na3Ga2(PO4)3",
+    "is_virtual": true,
+    "origin": "Na3Al2(PO4)3",
+    "replaced_from": "Al",
+    "replaced_to": "Ga"
+  },
+  {
+    "material_id": "virtual_513",
+    "formula": "Na3Sc2(PO4)3",
+    "is_virtual": true,
+    "origin": "Na3Al2(PO4)3",
+    "replaced_from": "Al",
+    "replaced_to": "Sc"
+  },
+  {
+    "material_id": "virtual_514",
+    "formula": "Cr2Si3(NiO4)3",
+    "is_virtual": true,
+    "origin": "Al2Si3(NiO4)3",
+    "replaced_from": "Al",
+    "replaced_to": "Cr"
+  },
+  {
+    "material_id": "virtual_515",
+    "formula": "Fe2Si3(NiO4)3",
+    "is_virtual": true,
+    "origin": "Al2Si3(NiO4)3",
+    "replaced_from": "Al",
+    "replaced_to": "Fe"
+  },
+  {
+    "material_id": "virtual_516",
+    "formula": "Ga2Si3(NiO4)3",
+    "is_virtual": true,
+    "origin": "Al2Si3(NiO4)3",
+    "replaced_from": "Al",
+    "replaced_to": "Ga"
+  },
+  {
+    "material_id": "virtual_517",
+    "formula": "Sc2Si3(NiO4)3",
+    "is_virtual": true,
+    "origin": "Al2Si3(NiO4)3",
+    "replaced_from": "Al",
+    "replaced_to": "Sc"
+  },
+  {
+    "material_id": "virtual_518",
+    "formula": "Y3Lu2Al3O12",
+    "is_virtual": true,
+    "origin": "Y3Sc2Al3O12",
+    "replaced_from": "Sc",
+    "replaced_to": "Lu"
+  },
+  {
+    "material_id": "virtual_519",
+    "formula": "Y3Sc2Cr3O12",
+    "is_virtual": true,
+    "origin": "Y3Sc2Al3O12",
+    "replaced_from": "Al",
+    "replaced_to": "Cr"
+  },
+  {
+    "material_id": "virtual_520",
+    "formula": "Y3Sc2(FeO4)3",
+    "is_virtual": true,
+    "origin": "Y3Sc2Al3O12",
+    "replaced_from": "Al",
+    "replaced_to": "Fe"
+  },
+  {
+    "material_id": "virtual_521",
+    "formula": "Y3Sc5O12",
+    "is_virtual": true,
+    "origin": "Y3Sc2Al3O12",
+    "replaced_from": "Al",
+    "replaced_to": "Sc"
+  },
+  {
+    "material_id": "virtual_522",
+    "formula": "Tm3Al3In2O12",
+    "is_virtual": true,
+    "origin": "Tm3Sc2Al3O12",
+    "replaced_from": "Sc",
+    "replaced_to": "In"
+  },
+  {
+    "material_id": "virtual_523",
+    "formula": "Tm3Lu2Al3O12",
+    "is_virtual": true,
+    "origin": "Tm3Sc2Al3O12",
+    "replaced_from": "Sc",
+    "replaced_to": "Lu"
+  },
+  {
+    "material_id": "virtual_524",
+    "formula": "Tm3Sc2Cr3O12",
+    "is_virtual": true,
+    "origin": "Tm3Sc2Al3O12",
+    "replaced_from": "Al",
+    "replaced_to": "Cr"
+  },
+  {
+    "material_id": "virtual_525",
+    "formula": "Tm3Sc2(FeO4)3",
+    "is_virtual": true,
+    "origin": "Tm3Sc2Al3O12",
+    "replaced_from": "Al",
+    "replaced_to": "Fe"
+  },
+  {
+    "material_id": "virtual_526",
+    "formula": "Tm3Sc2(GaO4)3",
+    "is_virtual": true,
+    "origin": "Tm3Sc2Al3O12",
+    "replaced_from": "Al",
+    "replaced_to": "Ga"
+  },
+  {
+    "material_id": "virtual_527",
+    "formula": "Tm3Sc5O12",
+    "is_virtual": true,
+    "origin": "Tm3Sc2Al3O12",
+    "replaced_from": "Al",
+    "replaced_to": "Sc"
+  },
+  {
+    "material_id": "virtual_528",
+    "formula": "Sm3Al3In2O12",
+    "is_virtual": true,
+    "origin": "Sm3Sc2Al3O12",
+    "replaced_from": "Sc",
+    "replaced_to": "In"
+  },
+  {
+    "material_id": "virtual_529",
+    "formula": "Sm3Lu2Al3O12",
+    "is_virtual": true,
+    "origin": "Sm3Sc2Al3O12",
+    "replaced_from": "Sc",
+    "replaced_to": "Lu"
+  },
+  {
+    "material_id": "virtual_530",
+    "formula": "Sm3Sc2Cr3O12",
+    "is_virtual": true,
+    "origin": "Sm3Sc2Al3O12",
+    "replaced_from": "Al",
+    "replaced_to": "Cr"
+  },
+  {
+    "material_id": "virtual_531",
+    "formula": "Sm3Sc2(GaO4)3",
+    "is_virtual": true,
+    "origin": "Sm3Sc2Al3O12",
+    "replaced_from": "Al",
+    "replaced_to": "Ga"
+  },
+  {
+    "material_id": "virtual_532",
+    "formula": "Sm3Sc5O12",
+    "is_virtual": true,
+    "origin": "Sm3Sc2Al3O12",
+    "replaced_from": "Al",
+    "replaced_to": "Sc"
+  },
+  {
+    "material_id": "virtual_533",
+    "formula": "Sr3Cr2(SiO4)3",
+    "is_virtual": true,
+    "origin": "Sr3Al2(SiO4)3",
+    "replaced_from": "Al",
+    "replaced_to": "Cr"
+  },
+  {
+    "material_id": "virtual_534",
+    "formula": "Sr3Fe2(SiO4)3",
+    "is_virtual": true,
+    "origin": "Sr3Al2(SiO4)3",
+    "replaced_from": "Al",
+    "replaced_to": "Fe"
+  },
+  {
+    "material_id": "virtual_535",
+    "formula": "Cr2Si3(WO4)3",
+    "is_virtual": true,
+    "origin": "Al2Si3(WO4)3",
+    "replaced_from": "Al",
+    "replaced_to": "Cr"
+  },
+  {
+    "material_id": "virtual_536",
+    "formula": "Fe2Si3(WO4)3",
+    "is_virtual": true,
+    "origin": "Al2Si3(WO4)3",
+    "replaced_from": "Al",
+    "replaced_to": "Fe"
+  },
+  {
+    "material_id": "virtual_537",
+    "formula": "Ga2Si3(WO4)3",
+    "is_virtual": true,
+    "origin": "Al2Si3(WO4)3",
+    "replaced_from": "Al",
+    "replaced_to": "Ga"
+  },
+  {
+    "material_id": "virtual_538",
+    "formula": "Sc2Si3(WO4)3",
+    "is_virtual": true,
+    "origin": "Al2Si3(WO4)3",
+    "replaced_from": "Al",
+    "replaced_to": "Sc"
+  },
+  {
+    "material_id": "virtual_539",
+    "formula": "Ti3Cr2(SiO4)3",
+    "is_virtual": true,
+    "origin": "Ti3Al2(SiO4)3",
+    "replaced_from": "Al",
+    "replaced_to": "Cr"
+  },
+  {
+    "material_id": "virtual_540",
+    "formula": "Ti3Fe2(SiO4)3",
+    "is_virtual": true,
+    "origin": "Ti3Al2(SiO4)3",
+    "replaced_from": "Al",
+    "replaced_to": "Fe"
+  },
+  {
+    "material_id": "virtual_541",
+    "formula": "Ti3Ga2(SiO4)3",
+    "is_virtual": true,
+    "origin": "Ti3Al2(SiO4)3",
+    "replaced_from": "Al",
+    "replaced_to": "Ga"
+  },
+  {
+    "material_id": "virtual_542",
+    "formula": "Sc2Ti3(SiO4)3",
+    "is_virtual": true,
+    "origin": "Ti3Al2(SiO4)3",
+    "replaced_from": "Al",
+    "replaced_to": "Sc"
+  },
+  {
+    "material_id": "virtual_543",
+    "formula": "Cr2Si3(SnO4)3",
+    "is_virtual": true,
+    "origin": "Al2Si3(SnO4)3",
+    "replaced_from": "Al",
+    "replaced_to": "Cr"
+  },
+  {
+    "material_id": "virtual_544",
+    "formula": "Fe2Si3(SnO4)3",
+    "is_virtual": true,
+    "origin": "Al2Si3(SnO4)3",
+    "replaced_from": "Al",
+    "replaced_to": "Fe"
+  },
+  {
+    "material_id": "virtual_545",
+    "formula": "Ga2Si3(SnO4)3",
+    "is_virtual": true,
+    "origin": "Al2Si3(SnO4)3",
+    "replaced_from": "Al",
+    "replaced_to": "Ga"
+  },
+  {
+    "material_id": "virtual_546",
+    "formula": "Sc2Si3(SnO4)3",
+    "is_virtual": true,
+    "origin": "Al2Si3(SnO4)3",
+    "replaced_from": "Al",
+    "replaced_to": "Sc"
+  },
+  {
+    "material_id": "virtual_547",
+    "formula": "V3Cr2(SiO4)3",
+    "is_virtual": true,
+    "origin": "Al2V3(SiO4)3",
+    "replaced_from": "Al",
+    "replaced_to": "Cr"
+  },
+  {
+    "material_id": "virtual_548",
+    "formula": "V3Fe2(SiO4)3",
+    "is_virtual": true,
+    "origin": "Al2V3(SiO4)3",
+    "replaced_from": "Al",
+    "replaced_to": "Fe"
+  },
+  {
+    "material_id": "virtual_549",
+    "formula": "V3Ga2(SiO4)3",
+    "is_virtual": true,
+    "origin": "Al2V3(SiO4)3",
+    "replaced_from": "Al",
+    "replaced_to": "Ga"
+  },
+  {
+    "material_id": "virtual_550",
+    "formula": "Sc2V3(SiO4)3",
+    "is_virtual": true,
+    "origin": "Al2V3(SiO4)3",
+    "replaced_from": "Al",
+    "replaced_to": "Sc"
+  },
+  {
+    "material_id": "virtual_551",
+    "formula": "Sm3Cr5O12",
+    "is_virtual": true,
+    "origin": "Sm3Al5O12",
+    "replaced_from": "Al",
+    "replaced_to": "Cr"
+  },
+  {
+    "material_id": "virtual_552",
+    "formula": "Gd3Sc3Al2O12",
+    "is_virtual": true,
+    "origin": "Y3Sc3Al2O12",
+    "replaced_from": "Y",
+    "replaced_to": "Gd"
+  },
+  {
+    "material_id": "virtual_553",
+    "formula": "Dy3Sc3Al2O12",
+    "is_virtual": true,
+    "origin": "Y3Sc3Al2O12",
+    "replaced_from": "Y",
+    "replaced_to": "Dy"
+  },
+  {
+    "material_id": "virtual_554",
+    "formula": "Ho3Sc3Al2O12",
+    "is_virtual": true,
+    "origin": "Y3Sc3Al2O12",
+    "replaced_from": "Y",
+    "replaced_to": "Ho"
+  },
+  {
+    "material_id": "virtual_555",
+    "formula": "Er3Sc3Al2O12",
+    "is_virtual": true,
+    "origin": "Y3Sc3Al2O12",
+    "replaced_from": "Y",
+    "replaced_to": "Er"
+  },
+  {
+    "material_id": "virtual_556",
+    "formula": "Sm3Sc3Al2O12",
+    "is_virtual": true,
+    "origin": "Y3Sc3Al2O12",
+    "replaced_from": "Y",
+    "replaced_to": "Sm"
+  },
+  {
+    "material_id": "virtual_557",
+    "formula": "Y3Lu3Al2O12",
+    "is_virtual": true,
+    "origin": "Y3Sc3Al2O12",
+    "replaced_from": "Sc",
+    "replaced_to": "Lu"
+  },
+  {
+    "material_id": "virtual_558",
+    "formula": "Y3Sc3(FeO6)2",
+    "is_virtual": true,
+    "origin": "Y3Sc3Al2O12",
+    "replaced_from": "Al",
+    "replaced_to": "Fe"
+  },
+  {
+    "material_id": "virtual_559",
+    "formula": "Tb3Cr5O12",
+    "is_virtual": true,
+    "origin": "Tb3Al5O12",
+    "replaced_from": "Al",
+    "replaced_to": "Cr"
+  },
+  {
+    "material_id": "virtual_560",
+    "formula": "Tb3Sc5O12",
+    "is_virtual": true,
+    "origin": "Tb3Al5O12",
+    "replaced_from": "Al",
+    "replaced_to": "Sc"
+  },
+  {
+    "material_id": "virtual_561",
+    "formula": "Tm3Cr5O12",
+    "is_virtual": true,
+    "origin": "Tm3Al5O12",
+    "replaced_from": "Al",
+    "replaced_to": "Cr"
+  },
+  {
+    "material_id": "virtual_562",
+    "formula": "Gd3Al3V2O12",
+    "is_virtual": true,
+    "origin": "Y3Al3V2O12",
+    "replaced_from": "Y",
+    "replaced_to": "Gd"
+  },
+  {
+    "material_id": "virtual_563",
+    "formula": "Dy3Al3V2O12",
+    "is_virtual": true,
+    "origin": "Y3Al3V2O12",
+    "replaced_from": "Y",
+    "replaced_to": "Dy"
+  },
+  {
+    "material_id": "virtual_564",
+    "formula": "Ho3Al3V2O12",
+    "is_virtual": true,
+    "origin": "Y3Al3V2O12",
+    "replaced_from": "Y",
+    "replaced_to": "Ho"
+  },
+  {
+    "material_id": "virtual_565",
+    "formula": "Lu3Al3V2O12",
+    "is_virtual": true,
+    "origin": "Y3Al3V2O12",
+    "replaced_from": "Y",
+    "replaced_to": "Lu"
+  },
+  {
+    "material_id": "virtual_566",
+    "formula": "Sm3Al3V2O12",
+    "is_virtual": true,
+    "origin": "Y3Al3V2O12",
+    "replaced_from": "Y",
+    "replaced_to": "Sm"
+  },
+  {
+    "material_id": "virtual_567",
+    "formula": "Y3V2Cr3O12",
+    "is_virtual": true,
+    "origin": "Y3Al3V2O12",
+    "replaced_from": "Al",
+    "replaced_to": "Cr"
+  },
+  {
+    "material_id": "virtual_568",
+    "formula": "Y3V2(FeO4)3",
+    "is_virtual": true,
+    "origin": "Y3Al3V2O12",
+    "replaced_from": "Al",
+    "replaced_to": "Fe"
+  },
+  {
+    "material_id": "virtual_569",
+    "formula": "Y3V2(GaO4)3",
+    "is_virtual": true,
+    "origin": "Y3Al3V2O12",
+    "replaced_from": "Al",
+    "replaced_to": "Ga"
+  },
+  {
+    "material_id": "virtual_570",
+    "formula": "Y3Sc3V2O12",
+    "is_virtual": true,
+    "origin": "Y3Al3V2O12",
+    "replaced_from": "Al",
+    "replaced_to": "Sc"
+  },
+  {
+    "material_id": "virtual_571",
+    "formula": "Gd2Co3(SiO4)3",
+    "is_virtual": true,
+    "origin": "Y2Co3(SiO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Gd"
+  },
+  {
+    "material_id": "virtual_572",
+    "formula": "Dy2Co3(SiO4)3",
+    "is_virtual": true,
+    "origin": "Y2Co3(SiO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Dy"
+  },
+  {
+    "material_id": "virtual_573",
+    "formula": "Ho2Co3(SiO4)3",
+    "is_virtual": true,
+    "origin": "Y2Co3(SiO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Ho"
+  },
+  {
+    "material_id": "virtual_574",
+    "formula": "Er2Co3(SiO4)3",
+    "is_virtual": true,
+    "origin": "Y2Co3(SiO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Er"
+  },
+  {
+    "material_id": "virtual_575",
+    "formula": "Lu2Co3(SiO4)3",
+    "is_virtual": true,
+    "origin": "Y2Co3(SiO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Lu"
+  },
+  {
+    "material_id": "virtual_576",
+    "formula": "Sm2Co3(SiO4)3",
+    "is_virtual": true,
+    "origin": "Y2Co3(SiO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Sm"
+  },
+  {
+    "material_id": "virtual_577",
+    "formula": "Dy3In5O12",
+    "is_virtual": true,
+    "origin": "Dy3Ga5O12",
+    "replaced_from": "Ga",
+    "replaced_to": "In"
+  },
+  {
+    "material_id": "virtual_578",
+    "formula": "Er3In5O12",
+    "is_virtual": true,
+    "origin": "Er3Ga5O12",
+    "replaced_from": "Ga",
+    "replaced_to": "In"
+  },
+  {
+    "material_id": "virtual_579",
+    "formula": "Eu3Al2(FeO4)3",
+    "is_virtual": true,
+    "origin": "Eu3Sc2(FeO4)3",
+    "replaced_from": "Sc",
+    "replaced_to": "Al"
+  },
+  {
+    "material_id": "virtual_580",
+    "formula": "Eu3In2(FeO4)3",
+    "is_virtual": true,
+    "origin": "Eu3Sc2(FeO4)3",
+    "replaced_from": "Sc",
+    "replaced_to": "In"
+  },
+  {
+    "material_id": "virtual_581",
+    "formula": "Eu3Lu2(FeO4)3",
+    "is_virtual": true,
+    "origin": "Eu3Sc2(FeO4)3",
+    "replaced_from": "Sc",
+    "replaced_to": "Lu"
+  },
+  {
+    "material_id": "virtual_582",
+    "formula": "Eu3In5O12",
+    "is_virtual": true,
+    "origin": "Eu3Ga5O12",
+    "replaced_from": "Ga",
+    "replaced_to": "In"
+  },
+  {
+    "material_id": "virtual_583",
+    "formula": "Gd3Ga3(FeO6)2",
+    "is_virtual": true,
+    "origin": "Y3Ga3(FeO6)2",
+    "replaced_from": "Y",
+    "replaced_to": "Gd"
+  },
+  {
+    "material_id": "virtual_584",
+    "formula": "Dy3Ga3(FeO6)2",
+    "is_virtual": true,
+    "origin": "Y3Ga3(FeO6)2",
+    "replaced_from": "Y",
+    "replaced_to": "Dy"
+  },
+  {
+    "material_id": "virtual_585",
+    "formula": "Ho3Ga3(FeO6)2",
+    "is_virtual": true,
+    "origin": "Y3Ga3(FeO6)2",
+    "replaced_from": "Y",
+    "replaced_to": "Ho"
+  },
+  {
+    "material_id": "virtual_586",
+    "formula": "Er3Ga3(FeO6)2",
+    "is_virtual": true,
+    "origin": "Y3Ga3(FeO6)2",
+    "replaced_from": "Y",
+    "replaced_to": "Er"
+  },
+  {
+    "material_id": "virtual_587",
+    "formula": "Sm3Ga3(FeO6)2",
+    "is_virtual": true,
+    "origin": "Y3Ga3(FeO6)2",
+    "replaced_from": "Y",
+    "replaced_to": "Sm"
+  },
+  {
+    "material_id": "virtual_588",
+    "formula": "Y3In3(FeO6)2",
+    "is_virtual": true,
+    "origin": "Y3Ga3(FeO6)2",
+    "replaced_from": "Ga",
+    "replaced_to": "In"
+  },
+  {
+    "material_id": "virtual_589",
+    "formula": "Li3Al2(GeO4)3",
+    "is_virtual": true,
+    "origin": "Li3Fe2(GeO4)3",
+    "replaced_from": "Fe",
+    "replaced_to": "Al"
+  },
+  {
+    "material_id": "virtual_590",
+    "formula": "Li3Ga2(GeO4)3",
+    "is_virtual": true,
+    "origin": "Li3Fe2(GeO4)3",
+    "replaced_from": "Fe",
+    "replaced_to": "Ga"
+  },
+  {
+    "material_id": "virtual_591",
+    "formula": "Na3Al2(GeO4)3",
+    "is_virtual": true,
+    "origin": "Na3Fe2(GeO4)3",
+    "replaced_from": "Fe",
+    "replaced_to": "Al"
+  },
+  {
+    "material_id": "virtual_592",
+    "formula": "Na3Cr2(GeO4)3",
+    "is_virtual": true,
+    "origin": "Na3Fe2(GeO4)3",
+    "replaced_from": "Fe",
+    "replaced_to": "Cr"
+  },
+  {
+    "material_id": "virtual_593",
+    "formula": "Na3Ga2(GeO4)3",
+    "is_virtual": true,
+    "origin": "Na3Fe2(GeO4)3",
+    "replaced_from": "Fe",
+    "replaced_to": "Ga"
+  },
+  {
+    "material_id": "virtual_594",
+    "formula": "Al2Zn3(GeO4)3",
+    "is_virtual": true,
+    "origin": "Zn3Fe2(GeO4)3",
+    "replaced_from": "Fe",
+    "replaced_to": "Al"
+  },
+  {
+    "material_id": "virtual_595",
+    "formula": "Zn3Ga2(GeO4)3",
+    "is_virtual": true,
+    "origin": "Zn3Fe2(GeO4)3",
+    "replaced_from": "Fe",
+    "replaced_to": "Ga"
+  },
+  {
+    "material_id": "virtual_596",
+    "formula": "Yb3Fe5O12",
+    "is_virtual": true,
+    "origin": "Lu3Fe5O12",
+    "replaced_from": "Lu",
+    "replaced_to": "Yb"
+  },
+  {
+    "material_id": "virtual_597",
+    "formula": "Li3Al2(PO4)3",
+    "is_virtual": true,
+    "origin": "Li3Fe2(PO4)3",
+    "replaced_from": "Fe",
+    "replaced_to": "Al"
+  },
+  {
+    "material_id": "virtual_598",
+    "formula": "Li3Ga2(PO4)3",
+    "is_virtual": true,
+    "origin": "Li3Fe2(PO4)3",
+    "replaced_from": "Fe",
+    "replaced_to": "Ga"
+  },
+  {
+    "material_id": "virtual_599",
+    "formula": "Mn2Al3(SiO4)3",
+    "is_virtual": true,
+    "origin": "Mn2Fe3(SiO4)3",
+    "replaced_from": "Fe",
+    "replaced_to": "Al"
+  },
+  {
+    "material_id": "virtual_600",
+    "formula": "Mn2Cr3(SiO4)3",
+    "is_virtual": true,
+    "origin": "Mn2Fe3(SiO4)3",
+    "replaced_from": "Fe",
+    "replaced_to": "Cr"
+  },
+  {
+    "material_id": "virtual_601",
+    "formula": "Mn2Ga3(SiO4)3",
+    "is_virtual": true,
+    "origin": "Mn2Fe3(SiO4)3",
+    "replaced_from": "Fe",
+    "replaced_to": "Ga"
+  },
+  {
+    "material_id": "virtual_602",
+    "formula": "Nd3Cr5O12",
+    "is_virtual": true,
+    "origin": "Nd3Fe5O12",
+    "replaced_from": "Fe",
+    "replaced_to": "Cr"
+  },
+  {
+    "material_id": "virtual_603",
+    "formula": "La3Sc2(FeO4)3",
+    "is_virtual": true,
+    "origin": "Nd3Sc2(FeO4)3",
+    "replaced_from": "Nd",
+    "replaced_to": "La"
+  },
+  {
+    "material_id": "virtual_604",
+    "formula": "Nd3Al2(FeO4)3",
+    "is_virtual": true,
+    "origin": "Nd3Sc2(FeO4)3",
+    "replaced_from": "Sc",
+    "replaced_to": "Al"
+  },
+  {
+    "material_id": "virtual_605",
+    "formula": "Nd3In2(FeO4)3",
+    "is_virtual": true,
+    "origin": "Nd3Sc2(FeO4)3",
+    "replaced_from": "Sc",
+    "replaced_to": "In"
+  },
+  {
+    "material_id": "virtual_606",
+    "formula": "Nd3Lu2(FeO4)3",
+    "is_virtual": true,
+    "origin": "Nd3Sc2(FeO4)3",
+    "replaced_from": "Sc",
+    "replaced_to": "Lu"
+  },
+  {
+    "material_id": "virtual_607",
+    "formula": "Nd3Sc2Cr3O12",
+    "is_virtual": true,
+    "origin": "Nd3Sc2(FeO4)3",
+    "replaced_from": "Fe",
+    "replaced_to": "Cr"
+  },
+  {
+    "material_id": "virtual_608",
+    "formula": "Nd3Sc2(GaO4)3",
+    "is_virtual": true,
+    "origin": "Nd3Sc2(FeO4)3",
+    "replaced_from": "Fe",
+    "replaced_to": "Ga"
+  },
+  {
+    "material_id": "virtual_609",
+    "formula": "Pr3Cr5O12",
+    "is_virtual": true,
+    "origin": "Pr3Fe5O12",
+    "replaced_from": "Fe",
+    "replaced_to": "Cr"
+  },
+  {
+    "material_id": "virtual_610",
+    "formula": "Pr3Al2(FeO4)3",
+    "is_virtual": true,
+    "origin": "Pr3Sc2(FeO4)3",
+    "replaced_from": "Sc",
+    "replaced_to": "Al"
+  },
+  {
+    "material_id": "virtual_611",
+    "formula": "Pr3In2(FeO4)3",
+    "is_virtual": true,
+    "origin": "Pr3Sc2(FeO4)3",
+    "replaced_from": "Sc",
+    "replaced_to": "In"
+  },
+  {
+    "material_id": "virtual_612",
+    "formula": "Pr3Lu2(FeO4)3",
+    "is_virtual": true,
+    "origin": "Pr3Sc2(FeO4)3",
+    "replaced_from": "Sc",
+    "replaced_to": "Lu"
+  },
+  {
+    "material_id": "virtual_613",
+    "formula": "Pr3Sc2Al3O12",
+    "is_virtual": true,
+    "origin": "Pr3Sc2(FeO4)3",
+    "replaced_from": "Fe",
+    "replaced_to": "Al"
+  },
+  {
+    "material_id": "virtual_614",
+    "formula": "Pr3Sc2Cr3O12",
+    "is_virtual": true,
+    "origin": "Pr3Sc2(FeO4)3",
+    "replaced_from": "Fe",
+    "replaced_to": "Cr"
+  },
+  {
+    "material_id": "virtual_615",
+    "formula": "Pr3Sc2(GaO4)3",
+    "is_virtual": true,
+    "origin": "Pr3Sc2(FeO4)3",
+    "replaced_from": "Fe",
+    "replaced_to": "Ga"
+  },
+  {
+    "material_id": "virtual_616",
+    "formula": "Sm3Al2(FeO4)3",
+    "is_virtual": true,
+    "origin": "Sm3Sc2(FeO4)3",
+    "replaced_from": "Sc",
+    "replaced_to": "Al"
+  },
+  {
+    "material_id": "virtual_617",
+    "formula": "Sm3In2(FeO4)3",
+    "is_virtual": true,
+    "origin": "Sm3Sc2(FeO4)3",
+    "replaced_from": "Sc",
+    "replaced_to": "In"
+  },
+  {
+    "material_id": "virtual_618",
+    "formula": "Sm3Lu2(FeO4)3",
+    "is_virtual": true,
+    "origin": "Sm3Sc2(FeO4)3",
+    "replaced_from": "Sc",
+    "replaced_to": "Lu"
+  },
+  {
+    "material_id": "virtual_619",
+    "formula": "Al3V2(SiO4)3",
+    "is_virtual": true,
+    "origin": "V2Fe3(SiO4)3",
+    "replaced_from": "Fe",
+    "replaced_to": "Al"
+  },
+  {
+    "material_id": "virtual_620",
+    "formula": "V2Cr3(SiO4)3",
+    "is_virtual": true,
+    "origin": "V2Fe3(SiO4)3",
+    "replaced_from": "Fe",
+    "replaced_to": "Cr"
+  },
+  {
+    "material_id": "virtual_621",
+    "formula": "V2Ga3(SiO4)3",
+    "is_virtual": true,
+    "origin": "V2Fe3(SiO4)3",
+    "replaced_from": "Fe",
+    "replaced_to": "Ga"
+  },
+  {
+    "material_id": "virtual_622",
+    "formula": "Ga5(SiO4)3",
+    "is_virtual": true,
+    "origin": "Fe5(SiO4)3",
+    "replaced_from": "Fe",
+    "replaced_to": "Ga"
+  },
+  {
+    "material_id": "virtual_623",
+    "formula": "Al2Zn3(SiO4)3",
+    "is_virtual": true,
+    "origin": "Zn3Fe2(SiO4)3",
+    "replaced_from": "Fe",
+    "replaced_to": "Al"
+  },
+  {
+    "material_id": "virtual_624",
+    "formula": "Zn3Ga2(SiO4)3",
+    "is_virtual": true,
+    "origin": "Zn3Fe2(SiO4)3",
+    "replaced_from": "Fe",
+    "replaced_to": "Ga"
+  },
+  {
+    "material_id": "virtual_625",
+    "formula": "AlSiO4",
+    "is_virtual": true,
+    "origin": "FeSiO4",
+    "replaced_from": "Fe",
+    "replaced_to": "Al"
+  },
+  {
+    "material_id": "virtual_626",
+    "formula": "GaSiO4",
+    "is_virtual": true,
+    "origin": "FeSiO4",
+    "replaced_from": "Fe",
+    "replaced_to": "Ga"
+  },
+  {
+    "material_id": "virtual_627",
+    "formula": "Gd2Fe3(SiO4)3",
+    "is_virtual": true,
+    "origin": "Y2Fe3(SiO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Gd"
+  },
+  {
+    "material_id": "virtual_628",
+    "formula": "Dy2Fe3(SiO4)3",
+    "is_virtual": true,
+    "origin": "Y2Fe3(SiO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Dy"
+  },
+  {
+    "material_id": "virtual_629",
+    "formula": "Ho2Fe3(SiO4)3",
+    "is_virtual": true,
+    "origin": "Y2Fe3(SiO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Ho"
+  },
+  {
+    "material_id": "virtual_630",
+    "formula": "Er2Fe3(SiO4)3",
+    "is_virtual": true,
+    "origin": "Y2Fe3(SiO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Er"
+  },
+  {
+    "material_id": "virtual_631",
+    "formula": "Lu2Fe3(SiO4)3",
+    "is_virtual": true,
+    "origin": "Y2Fe3(SiO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Lu"
+  },
+  {
+    "material_id": "virtual_632",
+    "formula": "Sm2Fe3(SiO4)3",
+    "is_virtual": true,
+    "origin": "Y2Fe3(SiO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Sm"
+  },
+  {
+    "material_id": "virtual_633",
+    "formula": "Y2Al3(SiO4)3",
+    "is_virtual": true,
+    "origin": "Y2Fe3(SiO4)3",
+    "replaced_from": "Fe",
+    "replaced_to": "Al"
+  },
+  {
+    "material_id": "virtual_634",
+    "formula": "Y2Ga3(SiO4)3",
+    "is_virtual": true,
+    "origin": "Y2Fe3(SiO4)3",
+    "replaced_from": "Fe",
+    "replaced_to": "Ga"
+  },
+  {
+    "material_id": "virtual_635",
+    "formula": "Gd3In5O12",
+    "is_virtual": true,
+    "origin": "Gd3Ga5O12",
+    "replaced_from": "Ga",
+    "replaced_to": "In"
+  },
+  {
+    "material_id": "virtual_636",
+    "formula": "Y3Lu2(GaO4)3",
+    "is_virtual": true,
+    "origin": "Gd3Lu2(GaO4)3",
+    "replaced_from": "Gd",
+    "replaced_to": "Y"
+  },
+  {
+    "material_id": "virtual_637",
+    "formula": "Dy3Lu2(GaO4)3",
+    "is_virtual": true,
+    "origin": "Gd3Lu2(GaO4)3",
+    "replaced_from": "Gd",
+    "replaced_to": "Dy"
+  },
+  {
+    "material_id": "virtual_638",
+    "formula": "Sm3Lu2(GaO4)3",
+    "is_virtual": true,
+    "origin": "Gd3Lu2(GaO4)3",
+    "replaced_from": "Gd",
+    "replaced_to": "Sm"
+  },
+  {
+    "material_id": "virtual_639",
+    "formula": "Tb3Lu2(GaO4)3",
+    "is_virtual": true,
+    "origin": "Gd3Lu2(GaO4)3",
+    "replaced_from": "Gd",
+    "replaced_to": "Tb"
+  },
+  {
+    "material_id": "virtual_640",
+    "formula": "Yb2Gd3(GaO4)3",
+    "is_virtual": true,
+    "origin": "Gd3Lu2(GaO4)3",
+    "replaced_from": "Lu",
+    "replaced_to": "Yb"
+  },
+  {
+    "material_id": "virtual_641",
+    "formula": "Gd3Y2(GaO4)3",
+    "is_virtual": true,
+    "origin": "Gd3Lu2(GaO4)3",
+    "replaced_from": "Lu",
+    "replaced_to": "Y"
+  },
+  {
+    "material_id": "virtual_642",
+    "formula": "Gd3Lu2In3O12",
+    "is_virtual": true,
+    "origin": "Gd3Lu2(GaO4)3",
+    "replaced_from": "Ga",
+    "replaced_to": "In"
+  },
+  {
+    "material_id": "virtual_643",
+    "formula": "Tb3Sc2(GaO4)3",
+    "is_virtual": true,
+    "origin": "Gd3Sc2(GaO4)3",
+    "replaced_from": "Gd",
+    "replaced_to": "Tb"
+  },
+  {
+    "material_id": "virtual_644",
+    "formula": "Gd3In2(GaO4)3",
+    "is_virtual": true,
+    "origin": "Gd3Sc2(GaO4)3",
+    "replaced_from": "Sc",
+    "replaced_to": "In"
+  },
+  {
+    "material_id": "virtual_645",
+    "formula": "Gd3Sc2In3O12",
+    "is_virtual": true,
+    "origin": "Gd3Sc2(GaO4)3",
+    "replaced_from": "Ga",
+    "replaced_to": "In"
+  },
+  {
+    "material_id": "virtual_646",
+    "formula": "Mn3In2(GeO4)3",
+    "is_virtual": true,
+    "origin": "Mn3Ga2(GeO4)3",
+    "replaced_from": "Ga",
+    "replaced_to": "In"
+  },
+  {
+    "material_id": "virtual_647",
+    "formula": "Mg3In2(GeO4)3",
+    "is_virtual": true,
+    "origin": "Mg3Ga2(GeO4)3",
+    "replaced_from": "Ga",
+    "replaced_to": "In"
+  },
+  {
+    "material_id": "virtual_648",
+    "formula": "Sr3In2(GeO4)3",
+    "is_virtual": true,
+    "origin": "Sr3Ga2(GeO4)3",
+    "replaced_from": "Ga",
+    "replaced_to": "In"
+  },
+  {
+    "material_id": "virtual_649",
+    "formula": "Ho3In5O12",
+    "is_virtual": true,
+    "origin": "Ho3Ga5O12",
+    "replaced_from": "Ga",
+    "replaced_to": "In"
+  },
+  {
+    "material_id": "virtual_650",
+    "formula": "Sm3Ho2(GaO4)3",
+    "is_virtual": true,
+    "origin": "Nd3Ho2(GaO4)3",
+    "replaced_from": "Nd",
+    "replaced_to": "Sm"
+  },
+  {
+    "material_id": "virtual_651",
+    "formula": "Pr3Ho2(GaO4)3",
+    "is_virtual": true,
+    "origin": "Nd3Ho2(GaO4)3",
+    "replaced_from": "Nd",
+    "replaced_to": "Pr"
+  },
+  {
+    "material_id": "virtual_652",
+    "formula": "Gd3Ho2(GaO4)3",
+    "is_virtual": true,
+    "origin": "Nd3Ho2(GaO4)3",
+    "replaced_from": "Nd",
+    "replaced_to": "Gd"
+  },
+  {
+    "material_id": "virtual_653",
+    "formula": "La3Ho2(GaO4)3",
+    "is_virtual": true,
+    "origin": "Nd3Ho2(GaO4)3",
+    "replaced_from": "Nd",
+    "replaced_to": "La"
+  },
+  {
+    "material_id": "virtual_654",
+    "formula": "Nd3Ho2Al3O12",
+    "is_virtual": true,
+    "origin": "Nd3Ho2(GaO4)3",
+    "replaced_from": "Ga",
+    "replaced_to": "Al"
+  },
+  {
+    "material_id": "virtual_655",
+    "formula": "Nd3Ho2In3O12",
+    "is_virtual": true,
+    "origin": "Nd3Ho2(GaO4)3",
+    "replaced_from": "Ga",
+    "replaced_to": "In"
+  },
+  {
+    "material_id": "virtual_656",
+    "formula": "Nd3In2(GaO4)3",
+    "is_virtual": true,
+    "origin": "La3In2(GaO4)3",
+    "replaced_from": "La",
+    "replaced_to": "Nd"
+  },
+  {
+    "material_id": "virtual_657",
+    "formula": "Pr3In2(GaO4)3",
+    "is_virtual": true,
+    "origin": "La3In2(GaO4)3",
+    "replaced_from": "La",
+    "replaced_to": "Pr"
+  },
+  {
+    "material_id": "virtual_658",
+    "formula": "La3Al3In2O12",
+    "is_virtual": true,
+    "origin": "La3In2(GaO4)3",
+    "replaced_from": "Ga",
+    "replaced_to": "Al"
+  },
+  {
+    "material_id": "virtual_659",
+    "formula": "La3In5O12",
+    "is_virtual": true,
+    "origin": "La3In2(GaO4)3",
+    "replaced_from": "Ga",
+    "replaced_to": "In"
+  },
+  {
+    "material_id": "virtual_660",
+    "formula": "Dy3In2(GaO4)3",
+    "is_virtual": true,
+    "origin": "Y3In2(GaO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Dy"
+  },
+  {
+    "material_id": "virtual_661",
+    "formula": "Ho3In2(GaO4)3",
+    "is_virtual": true,
+    "origin": "Y3In2(GaO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Ho"
+  },
+  {
+    "material_id": "virtual_662",
+    "formula": "Er3In2(GaO4)3",
+    "is_virtual": true,
+    "origin": "Y3In2(GaO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Er"
+  },
+  {
+    "material_id": "virtual_663",
+    "formula": "Lu3In2(GaO4)3",
+    "is_virtual": true,
+    "origin": "Y3In2(GaO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Lu"
+  },
+  {
+    "material_id": "virtual_664",
+    "formula": "Sm3In2(GaO4)3",
+    "is_virtual": true,
+    "origin": "Y3In2(GaO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Sm"
+  },
+  {
+    "material_id": "virtual_665",
+    "formula": "Y3In5O12",
+    "is_virtual": true,
+    "origin": "Y3In2(GaO4)3",
+    "replaced_from": "Ga",
+    "replaced_to": "In"
+  },
+  {
+    "material_id": "virtual_666",
+    "formula": "La3Yb2(GaO4)3",
+    "is_virtual": true,
+    "origin": "La3Lu2(GaO4)3",
+    "replaced_from": "Lu",
+    "replaced_to": "Yb"
+  },
+  {
+    "material_id": "virtual_667",
+    "formula": "La3Y2(GaO4)3",
+    "is_virtual": true,
+    "origin": "La3Lu2(GaO4)3",
+    "replaced_from": "Lu",
+    "replaced_to": "Y"
+  },
+  {
+    "material_id": "virtual_668",
+    "formula": "La3Lu2Al3O12",
+    "is_virtual": true,
+    "origin": "La3Lu2(GaO4)3",
+    "replaced_from": "Ga",
+    "replaced_to": "Al"
+  },
+  {
+    "material_id": "virtual_669",
+    "formula": "La3Lu2In3O12",
+    "is_virtual": true,
+    "origin": "La3Lu2(GaO4)3",
+    "replaced_from": "Ga",
+    "replaced_to": "In"
+  },
+  {
+    "material_id": "virtual_670",
+    "formula": "La3Al2(GaO4)3",
+    "is_virtual": true,
+    "origin": "La3Sc2(GaO4)3",
+    "replaced_from": "Sc",
+    "replaced_to": "Al"
+  },
+  {
+    "material_id": "virtual_671",
+    "formula": "La3Sc2Al3O12",
+    "is_virtual": true,
+    "origin": "La3Sc2(GaO4)3",
+    "replaced_from": "Ga",
+    "replaced_to": "Al"
+  },
+  {
+    "material_id": "virtual_672",
+    "formula": "La3Sc2In3O12",
+    "is_virtual": true,
+    "origin": "La3Sc2(GaO4)3",
+    "replaced_from": "Ga",
+    "replaced_to": "In"
+  },
+  {
+    "material_id": "virtual_673",
+    "formula": "Pr3Tm2(GaO4)3",
+    "is_virtual": true,
+    "origin": "La3Tm2(GaO4)3",
+    "replaced_from": "La",
+    "replaced_to": "Pr"
+  },
+  {
+    "material_id": "virtual_674",
+    "formula": "La3Tm2Al3O12",
+    "is_virtual": true,
+    "origin": "La3Tm2(GaO4)3",
+    "replaced_from": "Ga",
+    "replaced_to": "Al"
+  },
+  {
+    "material_id": "virtual_675",
+    "formula": "La3Tm2In3O12",
+    "is_virtual": true,
+    "origin": "La3Tm2(GaO4)3",
+    "replaced_from": "Ga",
+    "replaced_to": "In"
+  },
+  {
+    "material_id": "virtual_676",
+    "formula": "Yb3Ga5O12",
+    "is_virtual": true,
+    "origin": "Lu3Ga5O12",
+    "replaced_from": "Lu",
+    "replaced_to": "Yb"
+  },
+  {
+    "material_id": "virtual_677",
+    "formula": "Lu3In5O12",
+    "is_virtual": true,
+    "origin": "Lu3Ga5O12",
+    "replaced_from": "Ga",
+    "replaced_to": "In"
+  },
+  {
+    "material_id": "virtual_678",
+    "formula": "Yb2Nd3(GaO4)3",
+    "is_virtual": true,
+    "origin": "Nd3Lu2(GaO4)3",
+    "replaced_from": "Lu",
+    "replaced_to": "Yb"
+  },
+  {
+    "material_id": "virtual_679",
+    "formula": "Nd3Y2(GaO4)3",
+    "is_virtual": true,
+    "origin": "Nd3Lu2(GaO4)3",
+    "replaced_from": "Lu",
+    "replaced_to": "Y"
+  },
+  {
+    "material_id": "virtual_680",
+    "formula": "Nd3Lu2Al3O12",
+    "is_virtual": true,
+    "origin": "Nd3Lu2(GaO4)3",
+    "replaced_from": "Ga",
+    "replaced_to": "Al"
+  },
+  {
+    "material_id": "virtual_681",
+    "formula": "Nd3Lu2In3O12",
+    "is_virtual": true,
+    "origin": "Nd3Lu2(GaO4)3",
+    "replaced_from": "Ga",
+    "replaced_to": "In"
+  },
+  {
+    "material_id": "virtual_682",
+    "formula": "Yb2Pr3(GaO4)3",
+    "is_virtual": true,
+    "origin": "Pr3Lu2(GaO4)3",
+    "replaced_from": "Lu",
+    "replaced_to": "Yb"
+  },
+  {
+    "material_id": "virtual_683",
+    "formula": "Pr3Y2(GaO4)3",
+    "is_virtual": true,
+    "origin": "Pr3Lu2(GaO4)3",
+    "replaced_from": "Lu",
+    "replaced_to": "Y"
+  },
+  {
+    "material_id": "virtual_684",
+    "formula": "Pr3Lu2Al3O12",
+    "is_virtual": true,
+    "origin": "Pr3Lu2(GaO4)3",
+    "replaced_from": "Ga",
+    "replaced_to": "Al"
+  },
+  {
+    "material_id": "virtual_685",
+    "formula": "Pr3Lu2In3O12",
+    "is_virtual": true,
+    "origin": "Pr3Lu2(GaO4)3",
+    "replaced_from": "Ga",
+    "replaced_to": "In"
+  },
+  {
+    "material_id": "virtual_686",
+    "formula": "Yb3Sc2(GaO4)3",
+    "is_virtual": true,
+    "origin": "Lu3Sc2(GaO4)3",
+    "replaced_from": "Lu",
+    "replaced_to": "Yb"
+  },
+  {
+    "material_id": "virtual_687",
+    "formula": "Lu5(GaO4)3",
+    "is_virtual": true,
+    "origin": "Lu3Sc2(GaO4)3",
+    "replaced_from": "Sc",
+    "replaced_to": "Lu"
+  },
+  {
+    "material_id": "virtual_688",
+    "formula": "Lu3Sc2In3O12",
+    "is_virtual": true,
+    "origin": "Lu3Sc2(GaO4)3",
+    "replaced_from": "Ga",
+    "replaced_to": "In"
+  },
+  {
+    "material_id": "virtual_689",
+    "formula": "Yb3Sc3(GaO6)2",
+    "is_virtual": true,
+    "origin": "Lu3Sc3(GaO6)2",
+    "replaced_from": "Lu",
+    "replaced_to": "Yb"
+  },
+  {
+    "material_id": "virtual_690",
+    "formula": "Lu3In3(GaO6)2",
+    "is_virtual": true,
+    "origin": "Lu3Sc3(GaO6)2",
+    "replaced_from": "Sc",
+    "replaced_to": "In"
+  },
+  {
+    "material_id": "virtual_691",
+    "formula": "Lu3GaO6",
+    "is_virtual": true,
+    "origin": "Lu3Sc3(GaO6)2",
+    "replaced_from": "Sc",
+    "replaced_to": "Lu"
+  },
+  {
+    "material_id": "virtual_692",
+    "formula": "Lu3Sc3In2O12",
+    "is_virtual": true,
+    "origin": "Lu3Sc3(GaO6)2",
+    "replaced_from": "Ga",
+    "replaced_to": "In"
+  },
+  {
+    "material_id": "virtual_693",
+    "formula": "Na3Al3(TeO6)2",
+    "is_virtual": true,
+    "origin": "Na3Ga3(TeO6)2",
+    "replaced_from": "Ga",
+    "replaced_to": "Al"
+  },
+  {
+    "material_id": "virtual_694",
+    "formula": "Na3In3(TeO6)2",
+    "is_virtual": true,
+    "origin": "Na3Ga3(TeO6)2",
+    "replaced_from": "Ga",
+    "replaced_to": "In"
+  },
+  {
+    "material_id": "virtual_695",
+    "formula": "Nd3In5O12",
+    "is_virtual": true,
+    "origin": "Nd3Ga5O12",
+    "replaced_from": "Ga",
+    "replaced_to": "In"
+  },
+  {
+    "material_id": "virtual_696",
+    "formula": "Sm3Tm2(GaO4)3",
+    "is_virtual": true,
+    "origin": "Nd3Tm2(GaO4)3",
+    "replaced_from": "Nd",
+    "replaced_to": "Sm"
+  },
+  {
+    "material_id": "virtual_697",
+    "formula": "Gd3Tm2(GaO4)3",
+    "is_virtual": true,
+    "origin": "Nd3Tm2(GaO4)3",
+    "replaced_from": "Nd",
+    "replaced_to": "Gd"
+  },
+  {
+    "material_id": "virtual_698",
+    "formula": "Nd3Tm2Al3O12",
+    "is_virtual": true,
+    "origin": "Nd3Tm2(GaO4)3",
+    "replaced_from": "Ga",
+    "replaced_to": "Al"
+  },
+  {
+    "material_id": "virtual_699",
+    "formula": "Nd3Tm2In3O12",
+    "is_virtual": true,
+    "origin": "Nd3Tm2(GaO4)3",
+    "replaced_from": "Ga",
+    "replaced_to": "In"
+  },
+  {
+    "material_id": "virtual_700",
+    "formula": "Al5(BiO4)3",
+    "is_virtual": true,
+    "origin": "Fe5(BiO4)3",
+    "replaced_from": "Fe",
+    "replaced_to": "Al"
+  },
+  {
+    "material_id": "virtual_701",
+    "formula": "Cr5(BiO4)3",
+    "is_virtual": true,
+    "origin": "Fe5(BiO4)3",
+    "replaced_from": "Fe",
+    "replaced_to": "Cr"
+  },
+  {
+    "material_id": "virtual_702",
+    "formula": "Ga5(BiO4)3",
+    "is_virtual": true,
+    "origin": "Fe5(BiO4)3",
+    "replaced_from": "Fe",
+    "replaced_to": "Ga"
+  },
+  {
+    "material_id": "virtual_703",
+    "formula": "Ca3V2(GeO4)3",
+    "is_virtual": true,
+    "origin": "Ca3Cr2(GeO4)3",
+    "replaced_from": "Cr",
+    "replaced_to": "V"
+  },
+  {
+    "material_id": "virtual_704",
+    "formula": "Mg3Ti3Cr2O12",
+    "is_virtual": true,
+    "origin": "Ca3Ti3Cr2O12",
+    "replaced_from": "Ca",
+    "replaced_to": "Mg"
+  },
+  {
+    "material_id": "virtual_705",
+    "formula": "Ca3Ti3Al2O12",
+    "is_virtual": true,
+    "origin": "Ca3Ti3Cr2O12",
+    "replaced_from": "Cr",
+    "replaced_to": "Al"
+  },
+  {
+    "material_id": "virtual_706",
+    "formula": "Ca3Ti3(FeO6)2",
+    "is_virtual": true,
+    "origin": "Ca3Ti3Cr2O12",
+    "replaced_from": "Cr",
+    "replaced_to": "Fe"
+  },
+  {
+    "material_id": "virtual_707",
+    "formula": "Ca3Ti3V2O12",
+    "is_virtual": true,
+    "origin": "Ca3Ti3Cr2O12",
+    "replaced_from": "Cr",
+    "replaced_to": "V"
+  },
+  {
+    "material_id": "virtual_708",
+    "formula": "Mg3V3(CuO6)2",
+    "is_virtual": true,
+    "origin": "Ca3V3(CuO6)2",
+    "replaced_from": "Ca",
+    "replaced_to": "Mg"
+  },
+  {
+    "material_id": "virtual_709",
+    "formula": "Mg3V3(CoO6)2",
+    "is_virtual": true,
+    "origin": "Ca3V3(CoO6)2",
+    "replaced_from": "Ca",
+    "replaced_to": "Mg"
+  },
+  {
+    "material_id": "virtual_710",
+    "formula": "Mg3Fe3(SbO6)2",
+    "is_virtual": true,
+    "origin": "Ca3Fe3(SbO6)2",
+    "replaced_from": "Ca",
+    "replaced_to": "Mg"
+  },
+  {
+    "material_id": "virtual_711",
+    "formula": "Ca3Al3(SbO6)2",
+    "is_virtual": true,
+    "origin": "Ca3Fe3(SbO6)2",
+    "replaced_from": "Fe",
+    "replaced_to": "Al"
+  },
+  {
+    "material_id": "virtual_712",
+    "formula": "Ca3Cr3(SbO6)2",
+    "is_virtual": true,
+    "origin": "Ca3Fe3(SbO6)2",
+    "replaced_from": "Fe",
+    "replaced_to": "Cr"
+  },
+  {
+    "material_id": "virtual_713",
+    "formula": "Ca3Ga3(SbO6)2",
+    "is_virtual": true,
+    "origin": "Ca3Fe3(SbO6)2",
+    "replaced_from": "Fe",
+    "replaced_to": "Ga"
+  },
+  {
+    "material_id": "virtual_714",
+    "formula": "Mg3Ga3(SnO6)2",
+    "is_virtual": true,
+    "origin": "Ca3Ga3(SnO6)2",
+    "replaced_from": "Ca",
+    "replaced_to": "Mg"
+  },
+  {
+    "material_id": "virtual_715",
+    "formula": "Ca3Al3(SnO6)2",
+    "is_virtual": true,
+    "origin": "Ca3Ga3(SnO6)2",
+    "replaced_from": "Ga",
+    "replaced_to": "Al"
+  },
+  {
+    "material_id": "virtual_716",
+    "formula": "Ca3In3(SnO6)2",
+    "is_virtual": true,
+    "origin": "Ca3Ga3(SnO6)2",
+    "replaced_from": "Ga",
+    "replaced_to": "In"
+  },
+  {
+    "material_id": "virtual_717",
+    "formula": "Mg3Ga2(SnO4)3",
+    "is_virtual": true,
+    "origin": "Ca3Ga2(SnO4)3",
+    "replaced_from": "Ca",
+    "replaced_to": "Mg"
+  },
+  {
+    "material_id": "virtual_718",
+    "formula": "Ca3Al2(SnO4)3",
+    "is_virtual": true,
+    "origin": "Ca3Ga2(SnO4)3",
+    "replaced_from": "Ga",
+    "replaced_to": "Al"
+  },
+  {
+    "material_id": "virtual_719",
+    "formula": "Ca3In2(SnO4)3",
+    "is_virtual": true,
+    "origin": "Ca3Ga2(SnO4)3",
+    "replaced_from": "Ga",
+    "replaced_to": "In"
+  },
+  {
+    "material_id": "virtual_720",
+    "formula": "Lu2Mg3(GeO4)3",
+    "is_virtual": true,
+    "origin": "Ca3Lu2(GeO4)3",
+    "replaced_from": "Ca",
+    "replaced_to": "Mg"
+  },
+  {
+    "material_id": "virtual_721",
+    "formula": "Ca3Yb2(GeO4)3",
+    "is_virtual": true,
+    "origin": "Ca3Lu2(GeO4)3",
+    "replaced_from": "Lu",
+    "replaced_to": "Yb"
+  },
+  {
+    "material_id": "virtual_722",
+    "formula": "Y2Mg3(GeO4)3",
+    "is_virtual": true,
+    "origin": "Ca3Y2(GeO4)3",
+    "replaced_from": "Ca",
+    "replaced_to": "Mg"
+  },
+  {
+    "material_id": "virtual_723",
+    "formula": "Ca3Gd2(GeO4)3",
+    "is_virtual": true,
+    "origin": "Ca3Y2(GeO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Gd"
+  },
+  {
+    "material_id": "virtual_724",
+    "formula": "Ca3Dy2(GeO4)3",
+    "is_virtual": true,
+    "origin": "Ca3Y2(GeO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Dy"
+  },
+  {
+    "material_id": "virtual_725",
+    "formula": "Ca3Ho2(GeO4)3",
+    "is_virtual": true,
+    "origin": "Ca3Y2(GeO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Ho"
+  },
+  {
+    "material_id": "virtual_726",
+    "formula": "Ca3Er2(GeO4)3",
+    "is_virtual": true,
+    "origin": "Ca3Y2(GeO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Er"
+  },
+  {
+    "material_id": "virtual_727",
+    "formula": "Ca3Sm2(GeO4)3",
+    "is_virtual": true,
+    "origin": "Ca3Y2(GeO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Sm"
+  },
+  {
+    "material_id": "virtual_728",
+    "formula": "Mg3Ge3(RhO6)2",
+    "is_virtual": true,
+    "origin": "Ca3Ge3(RhO6)2",
+    "replaced_from": "Ca",
+    "replaced_to": "Mg"
+  },
+  {
+    "material_id": "virtual_729",
+    "formula": "Tm2Mg3(GeO4)3",
+    "is_virtual": true,
+    "origin": "Ca3Tm2(GeO4)3",
+    "replaced_from": "Ca",
+    "replaced_to": "Mg"
+  },
+  {
+    "material_id": "virtual_730",
+    "formula": "Mg3Ge3(WO6)2",
+    "is_virtual": true,
+    "origin": "Ca3Ge3(WO6)2",
+    "replaced_from": "Ca",
+    "replaced_to": "Mg"
+  },
+  {
+    "material_id": "virtual_731",
+    "formula": "Mg3Mn2O12",
+    "is_virtual": true,
+    "origin": "Ca3Mn2O12",
+    "replaced_from": "Ca",
+    "replaced_to": "Mg"
+  },
+  {
+    "material_id": "virtual_732",
+    "formula": "Mg3V3(NiO6)2",
+    "is_virtual": true,
+    "origin": "Ca3V3(NiO6)2",
+    "replaced_from": "Ca",
+    "replaced_to": "Mg"
+  },
+  {
+    "material_id": "virtual_733",
+    "formula": "Ca3Lu2(SiO4)3",
+    "is_virtual": true,
+    "origin": "Ca3Sc2(SiO4)3",
+    "replaced_from": "Sc",
+    "replaced_to": "Lu"
+  },
+  {
+    "material_id": "virtual_734",
+    "formula": "Ca3Gd2(SiO4)3",
+    "is_virtual": true,
+    "origin": "Ca3Y2(SiO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Gd"
+  },
+  {
+    "material_id": "virtual_735",
+    "formula": "Ca3Dy2(SiO4)3",
+    "is_virtual": true,
+    "origin": "Ca3Y2(SiO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Dy"
+  },
+  {
+    "material_id": "virtual_736",
+    "formula": "Ca3Ho2(SiO4)3",
+    "is_virtual": true,
+    "origin": "Ca3Y2(SiO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Ho"
+  },
+  {
+    "material_id": "virtual_737",
+    "formula": "Ca3Er2(SiO4)3",
+    "is_virtual": true,
+    "origin": "Ca3Y2(SiO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Er"
+  },
+  {
+    "material_id": "virtual_738",
+    "formula": "Ca3Sm2(SiO4)3",
+    "is_virtual": true,
+    "origin": "Ca3Y2(SiO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Sm"
+  },
+  {
+    "material_id": "virtual_739",
+    "formula": "Mg3Zn3(TeO6)2",
+    "is_virtual": true,
+    "origin": "Ca3Zn3(TeO6)2",
+    "replaced_from": "Ca",
+    "replaced_to": "Mg"
+  },
+  {
+    "material_id": "virtual_740",
+    "formula": "Al3Cr2(SiO4)3",
+    "is_virtual": true,
+    "origin": "Cr2Fe3(SiO4)3",
+    "replaced_from": "Fe",
+    "replaced_to": "Al"
+  },
+  {
+    "material_id": "virtual_741",
+    "formula": "Cr2Ga3(SiO4)3",
+    "is_virtual": true,
+    "origin": "Cr2Fe3(SiO4)3",
+    "replaced_from": "Fe",
+    "replaced_to": "Ga"
+  },
+  {
+    "material_id": "virtual_742",
+    "formula": "Gd3Cr2(GaO4)3",
+    "is_virtual": true,
+    "origin": "Y3Cr2(GaO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Gd"
+  },
+  {
+    "material_id": "virtual_743",
+    "formula": "Dy3Cr2(GaO4)3",
+    "is_virtual": true,
+    "origin": "Y3Cr2(GaO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Dy"
+  },
+  {
+    "material_id": "virtual_744",
+    "formula": "Ho3Cr2(GaO4)3",
+    "is_virtual": true,
+    "origin": "Y3Cr2(GaO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Ho"
+  },
+  {
+    "material_id": "virtual_745",
+    "formula": "Sm3Cr2(GaO4)3",
+    "is_virtual": true,
+    "origin": "Y3Cr2(GaO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Sm"
+  },
+  {
+    "material_id": "virtual_746",
+    "formula": "Y3Cr2In3O12",
+    "is_virtual": true,
+    "origin": "Y3Cr2(GaO4)3",
+    "replaced_from": "Ga",
+    "replaced_to": "In"
+  },
+  {
+    "material_id": "virtual_747",
+    "formula": "Al2(GeO4)3",
+    "is_virtual": true,
+    "origin": "Cr2(GeO4)3",
+    "replaced_from": "Cr",
+    "replaced_to": "Al"
+  },
+  {
+    "material_id": "virtual_748",
+    "formula": "Fe2(GeO4)3",
+    "is_virtual": true,
+    "origin": "Cr2(GeO4)3",
+    "replaced_from": "Cr",
+    "replaced_to": "Fe"
+  },
+  {
+    "material_id": "virtual_749",
+    "formula": "V2(GeO4)3",
+    "is_virtual": true,
+    "origin": "Cr2(GeO4)3",
+    "replaced_from": "Cr",
+    "replaced_to": "V"
+  },
+  {
+    "material_id": "virtual_750",
+    "formula": "Na3V3(FeO6)2",
+    "is_virtual": true,
+    "origin": "Na3V3Cr2O12",
+    "replaced_from": "Cr",
+    "replaced_to": "Fe"
+  },
+  {
+    "material_id": "virtual_751",
+    "formula": "Na3V5O12",
+    "is_virtual": true,
+    "origin": "Na3V3Cr2O12",
+    "replaced_from": "Cr",
+    "replaced_to": "V"
+  },
+  {
+    "material_id": "virtual_752",
+    "formula": "Al2(SiO4)3",
+    "is_virtual": true,
+    "origin": "Cr2(SiO4)3",
+    "replaced_from": "Cr",
+    "replaced_to": "Al"
+  },
+  {
+    "material_id": "virtual_753",
+    "formula": "Fe2(SiO4)3",
+    "is_virtual": true,
+    "origin": "Cr2(SiO4)3",
+    "replaced_from": "Cr",
+    "replaced_to": "Fe"
+  },
+  {
+    "material_id": "virtual_754",
+    "formula": "V2(SiO4)3",
+    "is_virtual": true,
+    "origin": "Cr2(SiO4)3",
+    "replaced_from": "Cr",
+    "replaced_to": "V"
+  },
+  {
+    "material_id": "virtual_755",
+    "formula": "Gd2Cr3(SiO4)3",
+    "is_virtual": true,
+    "origin": "Y2Cr3(SiO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Gd"
+  },
+  {
+    "material_id": "virtual_756",
+    "formula": "Dy2Cr3(SiO4)3",
+    "is_virtual": true,
+    "origin": "Y2Cr3(SiO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Dy"
+  },
+  {
+    "material_id": "virtual_757",
+    "formula": "Ho2Cr3(SiO4)3",
+    "is_virtual": true,
+    "origin": "Y2Cr3(SiO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Ho"
+  },
+  {
+    "material_id": "virtual_758",
+    "formula": "Er2Cr3(SiO4)3",
+    "is_virtual": true,
+    "origin": "Y2Cr3(SiO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Er"
+  },
+  {
+    "material_id": "virtual_759",
+    "formula": "Lu2Cr3(SiO4)3",
+    "is_virtual": true,
+    "origin": "Y2Cr3(SiO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Lu"
+  },
+  {
+    "material_id": "virtual_760",
+    "formula": "Sm2Cr3(SiO4)3",
+    "is_virtual": true,
+    "origin": "Y2Cr3(SiO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Sm"
+  },
+  {
+    "material_id": "virtual_761",
+    "formula": "Cd3In2(GeO4)3",
+    "is_virtual": true,
+    "origin": "Cd3Ga2(GeO4)3",
+    "replaced_from": "Ga",
+    "replaced_to": "In"
+  },
+  {
+    "material_id": "virtual_762",
+    "formula": "Al5Cd3O12",
+    "is_virtual": true,
+    "origin": "Cd3Ga5O12",
+    "replaced_from": "Ga",
+    "replaced_to": "Al"
+  },
+  {
+    "material_id": "virtual_763",
+    "formula": "Cd3In5O12",
+    "is_virtual": true,
+    "origin": "Cd3Ga5O12",
+    "replaced_from": "Ga",
+    "replaced_to": "In"
+  },
+  {
+    "material_id": "virtual_764",
+    "formula": "Lu2Cd3(GeO4)3",
+    "is_virtual": true,
+    "origin": "Sc2Cd3(GeO4)3",
+    "replaced_from": "Sc",
+    "replaced_to": "Lu"
+  },
+  {
+    "material_id": "virtual_765",
+    "formula": "Gd2Cu3(SiO4)3",
+    "is_virtual": true,
+    "origin": "Y2Cu3(SiO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Gd"
+  },
+  {
+    "material_id": "virtual_766",
+    "formula": "Dy2Cu3(SiO4)3",
+    "is_virtual": true,
+    "origin": "Y2Cu3(SiO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Dy"
+  },
+  {
+    "material_id": "virtual_767",
+    "formula": "Ho2Cu3(SiO4)3",
+    "is_virtual": true,
+    "origin": "Y2Cu3(SiO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Ho"
+  },
+  {
+    "material_id": "virtual_768",
+    "formula": "Er2Cu3(SiO4)3",
+    "is_virtual": true,
+    "origin": "Y2Cu3(SiO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Er"
+  },
+  {
+    "material_id": "virtual_769",
+    "formula": "Lu2Cu3(SiO4)3",
+    "is_virtual": true,
+    "origin": "Y2Cu3(SiO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Lu"
+  },
+  {
+    "material_id": "virtual_770",
+    "formula": "Sm2Cu3(SiO4)3",
+    "is_virtual": true,
+    "origin": "Y2Cu3(SiO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Sm"
+  },
+  {
+    "material_id": "virtual_771",
+    "formula": "Pr3In5O12",
+    "is_virtual": true,
+    "origin": "Pr3Ga5O12",
+    "replaced_from": "Ga",
+    "replaced_to": "In"
+  },
+  {
+    "material_id": "virtual_772",
+    "formula": "Sr3Al2O12",
+    "is_virtual": true,
+    "origin": "Sr3(GaO6)2",
+    "replaced_from": "Ga",
+    "replaced_to": "Al"
+  },
+  {
+    "material_id": "virtual_773",
+    "formula": "Sr3In2O12",
+    "is_virtual": true,
+    "origin": "Sr3(GaO6)2",
+    "replaced_from": "Ga",
+    "replaced_to": "In"
+  },
+  {
+    "material_id": "virtual_774",
+    "formula": "Y3Sc2In3O12",
+    "is_virtual": true,
+    "origin": "Y3Sc2(GaO4)3",
+    "replaced_from": "Ga",
+    "replaced_to": "In"
+  },
+  {
+    "material_id": "virtual_775",
+    "formula": "Sm3In5O12",
+    "is_virtual": true,
+    "origin": "Sm3Ga5O12",
+    "replaced_from": "Ga",
+    "replaced_to": "In"
+  },
+  {
+    "material_id": "virtual_776",
+    "formula": "Gd3Sc3(GaO6)2",
+    "is_virtual": true,
+    "origin": "Y3Sc3(GaO6)2",
+    "replaced_from": "Y",
+    "replaced_to": "Gd"
+  },
+  {
+    "material_id": "virtual_777",
+    "formula": "Dy3Sc3(GaO6)2",
+    "is_virtual": true,
+    "origin": "Y3Sc3(GaO6)2",
+    "replaced_from": "Y",
+    "replaced_to": "Dy"
+  },
+  {
+    "material_id": "virtual_778",
+    "formula": "Ho3Sc3(GaO6)2",
+    "is_virtual": true,
+    "origin": "Y3Sc3(GaO6)2",
+    "replaced_from": "Y",
+    "replaced_to": "Ho"
+  },
+  {
+    "material_id": "virtual_779",
+    "formula": "Er3Sc3(GaO6)2",
+    "is_virtual": true,
+    "origin": "Y3Sc3(GaO6)2",
+    "replaced_from": "Y",
+    "replaced_to": "Er"
+  },
+  {
+    "material_id": "virtual_780",
+    "formula": "Sm3Sc3(GaO6)2",
+    "is_virtual": true,
+    "origin": "Y3Sc3(GaO6)2",
+    "replaced_from": "Y",
+    "replaced_to": "Sm"
+  },
+  {
+    "material_id": "virtual_781",
+    "formula": "Y3In3(GaO6)2",
+    "is_virtual": true,
+    "origin": "Y3Sc3(GaO6)2",
+    "replaced_from": "Sc",
+    "replaced_to": "In"
+  },
+  {
+    "material_id": "virtual_782",
+    "formula": "Y3Lu3(GaO6)2",
+    "is_virtual": true,
+    "origin": "Y3Sc3(GaO6)2",
+    "replaced_from": "Sc",
+    "replaced_to": "Lu"
+  },
+  {
+    "material_id": "virtual_783",
+    "formula": "Y3Sc3In2O12",
+    "is_virtual": true,
+    "origin": "Y3Sc3(GaO6)2",
+    "replaced_from": "Ga",
+    "replaced_to": "In"
+  },
+  {
+    "material_id": "virtual_784",
+    "formula": "Tb3In5O12",
+    "is_virtual": true,
+    "origin": "Tb3Ga5O12",
+    "replaced_from": "Ga",
+    "replaced_to": "In"
+  },
+  {
+    "material_id": "virtual_785",
+    "formula": "Tm3In5O12",
+    "is_virtual": true,
+    "origin": "Tm3Ga5O12",
+    "replaced_from": "Ga",
+    "replaced_to": "In"
+  },
+  {
+    "material_id": "virtual_786",
+    "formula": "Gd3Mg2(GeO4)3",
+    "is_virtual": true,
+    "origin": "Y3Mg2(GeO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Gd"
+  },
+  {
+    "material_id": "virtual_787",
+    "formula": "Dy3Mg2(GeO4)3",
+    "is_virtual": true,
+    "origin": "Y3Mg2(GeO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Dy"
+  },
+  {
+    "material_id": "virtual_788",
+    "formula": "Ho3Mg2(GeO4)3",
+    "is_virtual": true,
+    "origin": "Y3Mg2(GeO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Ho"
+  },
+  {
+    "material_id": "virtual_789",
+    "formula": "Er3Mg2(GeO4)3",
+    "is_virtual": true,
+    "origin": "Y3Mg2(GeO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Er"
+  },
+  {
+    "material_id": "virtual_790",
+    "formula": "Lu3Mg2(GeO4)3",
+    "is_virtual": true,
+    "origin": "Y3Mg2(GeO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Lu"
+  },
+  {
+    "material_id": "virtual_791",
+    "formula": "Sm3Mg2(GeO4)3",
+    "is_virtual": true,
+    "origin": "Y3Mg2(GeO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Sm"
+  },
+  {
+    "material_id": "virtual_792",
+    "formula": "Sr3Gd2(GeO4)3",
+    "is_virtual": true,
+    "origin": "Sr3Y2(GeO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Gd"
+  },
+  {
+    "material_id": "virtual_793",
+    "formula": "Sr3Dy2(GeO4)3",
+    "is_virtual": true,
+    "origin": "Sr3Y2(GeO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Dy"
+  },
+  {
+    "material_id": "virtual_794",
+    "formula": "Sr3Ho2(GeO4)3",
+    "is_virtual": true,
+    "origin": "Sr3Y2(GeO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Ho"
+  },
+  {
+    "material_id": "virtual_795",
+    "formula": "Sr3Lu2(GeO4)3",
+    "is_virtual": true,
+    "origin": "Sr3Y2(GeO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Lu"
+  },
+  {
+    "material_id": "virtual_796",
+    "formula": "Sr3Sm2(GeO4)3",
+    "is_virtual": true,
+    "origin": "Sr3Y2(GeO4)3",
+    "replaced_from": "Y",
+    "replaced_to": "Sm"
+  },
+  {
+    "material_id": "virtual_797",
+    "formula": "Li3Nd3(MoO6)2",
+    "is_virtual": true,
+    "origin": "Li3La3(MoO6)2",
+    "replaced_from": "La",
+    "replaced_to": "Nd"
+  },
+  {
+    "material_id": "virtual_798",
+    "formula": "Li3Pr3(MoO6)2",
+    "is_virtual": true,
+    "origin": "Li3La3(MoO6)2",
+    "replaced_from": "La",
+    "replaced_to": "Pr"
+  },
+  {
+    "material_id": "virtual_799",
+    "formula": "Li5Nd3Nb2O12",
+    "is_virtual": true,
+    "origin": "Li5La3Nb2O12",
+    "replaced_from": "La",
+    "replaced_to": "Nd"
+  },
+  {
+    "material_id": "virtual_800",
+    "formula": "Li5Pr3Nb2O12",
+    "is_virtual": true,
+    "origin": "Li5La3Nb2O12",
+    "replaced_from": "La",
+    "replaced_to": "Pr"
+  },
+  {
+    "material_id": "virtual_801",
+    "formula": "Li5Nd3Ta2O12",
+    "is_virtual": true,
+    "origin": "Li5La3Ta2O12",
+    "replaced_from": "La",
+    "replaced_to": "Nd"
+  },
+  {
+    "material_id": "virtual_802",
+    "formula": "Li5Pr3Ta2O12",
+    "is_virtual": true,
+    "origin": "Li5La3Ta2O12",
+    "replaced_from": "La",
+    "replaced_to": "Pr"
+  },
+  {
+    "material_id": "virtual_803",
+    "formula": "Yb3Mg2(SiO4)3",
+    "is_virtual": true,
+    "origin": "Lu3Mg2(SiO4)3",
+    "replaced_from": "Lu",
+    "replaced_to": "Yb"
+  },
+  {
+    "material_id": "virtual_804",
+    "formula": "Y3Mg2(SiO4)3",
+    "is_virtual": true,
+    "origin": "Lu3Mg2(SiO4)3",
+    "replaced_from": "Lu",
+    "replaced_to": "Y"
+  },
+  {
+    "material_id": "virtual_805",
+    "formula": "Sr3Yb2O12",
+    "is_virtual": true,
+    "origin": "Sr3Lu2O12",
+    "replaced_from": "Lu",
+    "replaced_to": "Yb"
+  },
+  {
+    "material_id": "virtual_806",
+    "formula": "Sr3Y2O12",
+    "is_virtual": true,
+    "origin": "Sr3Lu2O12",
+    "replaced_from": "Lu",
+    "replaced_to": "Y"
+  },
+  {
+    "material_id": "virtual_807",
+    "formula": "Li3Yb3(TeO6)2",
+    "is_virtual": true,
+    "origin": "Li3Lu3(TeO6)2",
+    "replaced_from": "Lu",
+    "replaced_to": "Yb"
+  },
+  {
+    "material_id": "virtual_808",
+    "formula": "Li3Sm3(WO6)2",
+    "is_virtual": true,
+    "origin": "Li3Nd3(WO6)2",
+    "replaced_from": "Nd",
+    "replaced_to": "Sm"
+  },
+  {
+    "material_id": "virtual_809",
+    "formula": "Li3Pr3(WO6)2",
+    "is_virtual": true,
+    "origin": "Li3Nd3(WO6)2",
+    "replaced_from": "Nd",
+    "replaced_to": "Pr"
+  },
+  {
+    "material_id": "virtual_810",
+    "formula": "Li3Gd3(WO6)2",
+    "is_virtual": true,
+    "origin": "Li3Nd3(WO6)2",
+    "replaced_from": "Nd",
+    "replaced_to": "Gd"
+  },
+  {
+    "material_id": "virtual_811",
+    "formula": "Li3La3(WO6)2",
+    "is_virtual": true,
+    "origin": "Li3Nd3(WO6)2",
+    "replaced_from": "Nd",
+    "replaced_to": "La"
+  },
+  {
+    "material_id": "virtual_812",
+    "formula": "Li3La3(TeO6)2",
+    "is_virtual": true,
+    "origin": "Li3Nd3(TeO6)2",
+    "replaced_from": "Nd",
+    "replaced_to": "La"
+  }
+]

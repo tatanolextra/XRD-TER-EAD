@@ -1,0 +1,656 @@
+[
+  {
+    "entropy": 1.445697546005249,
+    "correct": 0,
+    "true_class": "Mn",
+    "pred_class": "V"
+  },
+  {
+    "entropy": 1.1325305700302124,
+    "correct": 0,
+    "true_class": "Sn",
+    "pred_class": "Al"
+  },
+  {
+    "entropy": 1.0543545484542847,
+    "correct": 0,
+    "true_class": "V",
+    "pred_class": "Al"
+  },
+  {
+    "entropy": 1.6245455741882324,
+    "correct": 0,
+    "true_class": "Mn",
+    "pred_class": "V"
+  },
+  {
+    "entropy": 0.3830074667930603,
+    "correct": 0,
+    "true_class": "Ti",
+    "pred_class": "V"
+  },
+  {
+    "entropy": 0.5956884026527405,
+    "correct": 0,
+    "true_class": "Mn",
+    "pred_class": "V"
+  },
+  {
+    "entropy": 1.2233165502548218,
+    "correct": 0,
+    "true_class": "Mo",
+    "pred_class": "Mn"
+  },
+  {
+    "entropy": 1.3223844766616821,
+    "correct": 0,
+    "true_class": "W",
+    "pred_class": "Al"
+  },
+  {
+    "entropy": 0.5911781191825867,
+    "correct": 1,
+    "true_class": "Sn",
+    "pred_class": "Sn"
+  },
+  {
+    "entropy": 0.520457923412323,
+    "correct": 1,
+    "true_class": "Ti",
+    "pred_class": "Ti"
+  },
+  {
+    "entropy": 1.1357835531234741,
+    "correct": 1,
+    "true_class": "Al",
+    "pred_class": "Al"
+  },
+  {
+    "entropy": 0.40912961959838867,
+    "correct": 1,
+    "true_class": "Al",
+    "pred_class": "Al"
+  },
+  {
+    "entropy": 0.4213925302028656,
+    "correct": 1,
+    "true_class": "Al",
+    "pred_class": "Al"
+  },
+  {
+    "entropy": 1.0987324714660645,
+    "correct": 1,
+    "true_class": "Al",
+    "pred_class": "Al"
+  },
+  {
+    "entropy": 1.3276335000991821,
+    "correct": 0,
+    "true_class": "Al",
+    "pred_class": "V"
+  },
+  {
+    "entropy": 0.41865116357803345,
+    "correct": 1,
+    "true_class": "Al",
+    "pred_class": "Al"
+  },
+  {
+    "entropy": 0.42405229806900024,
+    "correct": 1,
+    "true_class": "Fe",
+    "pred_class": "Fe"
+  },
+  {
+    "entropy": 1.6598294973373413,
+    "correct": 0,
+    "true_class": "Fe",
+    "pred_class": "Cr"
+  },
+  {
+    "entropy": 1.2323793172836304,
+    "correct": 1,
+    "true_class": "Fe",
+    "pred_class": "Fe"
+  },
+  {
+    "entropy": 0.7962709665298462,
+    "correct": 1,
+    "true_class": "Fe",
+    "pred_class": "Fe"
+  },
+  {
+    "entropy": 0.5131161212921143,
+    "correct": 1,
+    "true_class": "Ga",
+    "pred_class": "Ga"
+  },
+  {
+    "entropy": 0.39505213499069214,
+    "correct": 1,
+    "true_class": "Bi",
+    "pred_class": "Bi"
+  },
+  {
+    "entropy": 1.770914077758789,
+    "correct": 0,
+    "true_class": "In",
+    "pred_class": "Sn"
+  },
+  {
+    "entropy": 0.8605527281761169,
+    "correct": 0,
+    "true_class": "Sb",
+    "pred_class": "Sn"
+  },
+  {
+    "entropy": 0.8255016803741455,
+    "correct": 0,
+    "true_class": "V",
+    "pred_class": "Ti"
+  },
+  {
+    "entropy": 0.5736107230186462,
+    "correct": 0,
+    "true_class": "W",
+    "pred_class": "Sn"
+  },
+  {
+    "entropy": 0.4431513249874115,
+    "correct": 1,
+    "true_class": "Cr",
+    "pred_class": "Cr"
+  },
+  {
+    "entropy": 0.5620203018188477,
+    "correct": 1,
+    "true_class": "Cr",
+    "pred_class": "Cr"
+  },
+  {
+    "entropy": 1.3730133771896362,
+    "correct": 0,
+    "true_class": "Cr",
+    "pred_class": "V"
+  },
+  {
+    "entropy": 1.7993067502975464,
+    "correct": 0,
+    "true_class": "Fe",
+    "pred_class": "Cr"
+  },
+  {
+    "entropy": 2.189692735671997,
+    "correct": 0,
+    "true_class": "Ga",
+    "pred_class": "Sn"
+  },
+  {
+    "entropy": 1.0876141786575317,
+    "correct": 0,
+    "true_class": "V",
+    "pred_class": "Fe"
+  },
+  {
+    "entropy": 1.9053555727005005,
+    "correct": 1,
+    "true_class": "Fe",
+    "pred_class": "Fe"
+  },
+  {
+    "entropy": 0.4518126845359802,
+    "correct": 1,
+    "true_class": "Cr",
+    "pred_class": "Cr"
+  },
+  {
+    "entropy": 1.8579479455947876,
+    "correct": 1,
+    "true_class": "In",
+    "pred_class": "In"
+  },
+  {
+    "entropy": 1.6937775611877441,
+    "correct": 0,
+    "true_class": "Mo",
+    "pred_class": "In"
+  },
+  {
+    "entropy": 0.7221492528915405,
+    "correct": 1,
+    "true_class": "Ti",
+    "pred_class": "Ti"
+  },
+  {
+    "entropy": 1.2302793264389038,
+    "correct": 0,
+    "true_class": "V",
+    "pred_class": "Cr"
+  },
+  {
+    "entropy": 1.0976850986480713,
+    "correct": 1,
+    "true_class": "W",
+    "pred_class": "W"
+  },
+  {
+    "entropy": 1.6649171113967896,
+    "correct": 0,
+    "true_class": "Mn",
+    "pred_class": "Al"
+  },
+  {
+    "entropy": 1.541671633720398,
+    "correct": 0,
+    "true_class": "V",
+    "pred_class": "Ti"
+  },
+  {
+    "entropy": 1.2766798734664917,
+    "correct": 0,
+    "true_class": "Mo",
+    "pred_class": "Sn"
+  },
+  {
+    "entropy": 0.4980892241001129,
+    "correct": 0,
+    "true_class": "Sn",
+    "pred_class": "Sb"
+  },
+  {
+    "entropy": 0.42031607031822205,
+    "correct": 1,
+    "true_class": "Sb",
+    "pred_class": "Sb"
+  },
+  {
+    "entropy": 1.2747071981430054,
+    "correct": 0,
+    "true_class": "Ti",
+    "pred_class": "V"
+  },
+  {
+    "entropy": 1.1515923738479614,
+    "correct": 0,
+    "true_class": "W",
+    "pred_class": "In"
+  },
+  {
+    "entropy": 0.45515599846839905,
+    "correct": 1,
+    "true_class": "Al",
+    "pred_class": "Al"
+  },
+  {
+    "entropy": 0.4390797019004822,
+    "correct": 1,
+    "true_class": "Al",
+    "pred_class": "Al"
+  },
+  {
+    "entropy": 0.44655996561050415,
+    "correct": 1,
+    "true_class": "Al",
+    "pred_class": "Al"
+  },
+  {
+    "entropy": 1.7257670164108276,
+    "correct": 1,
+    "true_class": "Al",
+    "pred_class": "Al"
+  },
+  {
+    "entropy": 1.838948369026184,
+    "correct": 0,
+    "true_class": "Al",
+    "pred_class": "Fe"
+  },
+  {
+    "entropy": 1.2085150480270386,
+    "correct": 0,
+    "true_class": "Al",
+    "pred_class": "Sn"
+  },
+  {
+    "entropy": 1.0247358083724976,
+    "correct": 0,
+    "true_class": "Mn",
+    "pred_class": "Fe"
+  },
+  {
+    "entropy": 1.589465618133545,
+    "correct": 0,
+    "true_class": "V",
+    "pred_class": "Cr"
+  },
+  {
+    "entropy": 1.5419180393218994,
+    "correct": 0,
+    "true_class": "Mn",
+    "pred_class": "V"
+  },
+  {
+    "entropy": 0.6281338334083557,
+    "correct": 0,
+    "true_class": "Fe",
+    "pred_class": "V"
+  },
+  {
+    "entropy": 1.636396050453186,
+    "correct": 0,
+    "true_class": "Fe",
+    "pred_class": "Ga"
+  },
+  {
+    "entropy": 1.3679367303848267,
+    "correct": 1,
+    "true_class": "Fe",
+    "pred_class": "Fe"
+  },
+  {
+    "entropy": 1.3002475500106812,
+    "correct": 1,
+    "true_class": "Fe",
+    "pred_class": "Fe"
+  },
+  {
+    "entropy": 1.5162032842636108,
+    "correct": 1,
+    "true_class": "Fe",
+    "pred_class": "Fe"
+  },
+  {
+    "entropy": 0.48508796095848083,
+    "correct": 0,
+    "true_class": "V",
+    "pred_class": "Cr"
+  },
+  {
+    "entropy": 1.6286722421646118,
+    "correct": 1,
+    "true_class": "Ga",
+    "pred_class": "Ga"
+  },
+  {
+    "entropy": 0.5132631659507751,
+    "correct": 1,
+    "true_class": "Bi",
+    "pred_class": "Bi"
+  },
+  {
+    "entropy": 1.6120339632034302,
+    "correct": 0,
+    "true_class": "Mo",
+    "pred_class": "Sn"
+  },
+  {
+    "entropy": 1.436035394668579,
+    "correct": 0,
+    "true_class": "Ti",
+    "pred_class": "V"
+  },
+  {
+    "entropy": 0.4439580738544464,
+    "correct": 1,
+    "true_class": "Cr",
+    "pred_class": "Cr"
+  },
+  {
+    "entropy": 1.5043082237243652,
+    "correct": 0,
+    "true_class": "Cr",
+    "pred_class": "Al"
+  },
+  {
+    "entropy": 0.46965107321739197,
+    "correct": 1,
+    "true_class": "Cr",
+    "pred_class": "Cr"
+  },
+  {
+    "entropy": 1.4370362758636475,
+    "correct": 1,
+    "true_class": "Cr",
+    "pred_class": "Cr"
+  },
+  {
+    "entropy": 0.9802398681640625,
+    "correct": 0,
+    "true_class": "In",
+    "pred_class": "Mo"
+  },
+  {
+    "entropy": 1.7799320220947266,
+    "correct": 0,
+    "true_class": "Sn",
+    "pred_class": "W"
+  },
+  {
+    "entropy": 0.43133240938186646,
+    "correct": 1,
+    "true_class": "Ga",
+    "pred_class": "Ga"
+  },
+  {
+    "entropy": 0.49277982115745544,
+    "correct": 0,
+    "true_class": "In",
+    "pred_class": "W"
+  },
+  {
+    "entropy": 1.9150049686431885,
+    "correct": 0,
+    "true_class": "Mo",
+    "pred_class": "W"
+  },
+  {
+    "entropy": 1.3243334293365479,
+    "correct": 0,
+    "true_class": "Sb",
+    "pred_class": "Sn"
+  },
+  {
+    "entropy": 1.823514461517334,
+    "correct": 0,
+    "true_class": "Sn",
+    "pred_class": "Al"
+  },
+  {
+    "entropy": 1.6195265054702759,
+    "correct": 0,
+    "true_class": "Ti",
+    "pred_class": "Fe"
+  },
+  {
+    "entropy": 0.7804737091064453,
+    "correct": 1,
+    "true_class": "Mn",
+    "pred_class": "Mn"
+  },
+  {
+    "entropy": 0.43622416257858276,
+    "correct": 1,
+    "true_class": "Ti",
+    "pred_class": "Ti"
+  },
+  {
+    "entropy": 0.41880762577056885,
+    "correct": 0,
+    "true_class": "V",
+    "pred_class": "Mn"
+  },
+  {
+    "entropy": 0.48003166913986206,
+    "correct": 0,
+    "true_class": "V",
+    "pred_class": "Al"
+  },
+  {
+    "entropy": 0.6172276735305786,
+    "correct": 1,
+    "true_class": "Sn",
+    "pred_class": "Sn"
+  },
+  {
+    "entropy": 1.0681027173995972,
+    "correct": 0,
+    "true_class": "V",
+    "pred_class": "Ti"
+  },
+  {
+    "entropy": 0.3882601261138916,
+    "correct": 0,
+    "true_class": "Mo",
+    "pred_class": "In"
+  },
+  {
+    "entropy": 0.4481784999370575,
+    "correct": 1,
+    "true_class": "Al",
+    "pred_class": "Al"
+  },
+  {
+    "entropy": 0.4278933107852936,
+    "correct": 1,
+    "true_class": "Al",
+    "pred_class": "Al"
+  },
+  {
+    "entropy": 1.9923655986785889,
+    "correct": 0,
+    "true_class": "Al",
+    "pred_class": "Mo"
+  },
+  {
+    "entropy": 1.3444985151290894,
+    "correct": 1,
+    "true_class": "Al",
+    "pred_class": "Al"
+  },
+  {
+    "entropy": 0.6872256994247437,
+    "correct": 1,
+    "true_class": "Al",
+    "pred_class": "Al"
+  },
+  {
+    "entropy": 1.6704649925231934,
+    "correct": 0,
+    "true_class": "Al",
+    "pred_class": "Mn"
+  },
+  {
+    "entropy": 0.4139082133769989,
+    "correct": 0,
+    "true_class": "Fe",
+    "pred_class": "Mn"
+  },
+  {
+    "entropy": 0.4177670180797577,
+    "correct": 1,
+    "true_class": "Fe",
+    "pred_class": "Fe"
+  },
+  {
+    "entropy": 0.8194655179977417,
+    "correct": 0,
+    "true_class": "Fe",
+    "pred_class": "Al"
+  },
+  {
+    "entropy": 1.7980692386627197,
+    "correct": 1,
+    "true_class": "Fe",
+    "pred_class": "Fe"
+  },
+  {
+    "entropy": 0.4457678198814392,
+    "correct": 0,
+    "true_class": "Fe",
+    "pred_class": "V"
+  },
+  {
+    "entropy": 0.4659307897090912,
+    "correct": 0,
+    "true_class": "Ga",
+    "pred_class": "Ti"
+  },
+  {
+    "entropy": 0.4351184368133545,
+    "correct": 1,
+    "true_class": "Bi",
+    "pred_class": "Bi"
+  },
+  {
+    "entropy": 0.37830713391304016,
+    "correct": 0,
+    "true_class": "Cr",
+    "pred_class": "Ti"
+  },
+  {
+    "entropy": 1.251306414604187,
+    "correct": 0,
+    "true_class": "Fe",
+    "pred_class": "V"
+  },
+  {
+    "entropy": 0.9970975518226624,
+    "correct": 0,
+    "true_class": "Sn",
+    "pred_class": "Bi"
+  },
+  {
+    "entropy": 1.1001834869384766,
+    "correct": 1,
+    "true_class": "Cr",
+    "pred_class": "Cr"
+  },
+  {
+    "entropy": 1.260347843170166,
+    "correct": 0,
+    "true_class": "Cr",
+    "pred_class": "Mn"
+  },
+  {
+    "entropy": 0.4719490110874176,
+    "correct": 0,
+    "true_class": "Cr",
+    "pred_class": "Mn"
+  },
+  {
+    "entropy": 1.612899899482727,
+    "correct": 1,
+    "true_class": "Mn",
+    "pred_class": "Mn"
+  },
+  {
+    "entropy": 1.186260461807251,
+    "correct": 0,
+    "true_class": "Ga",
+    "pred_class": "Fe"
+  },
+  {
+    "entropy": 0.944161057472229,
+    "correct": 0,
+    "true_class": "In",
+    "pred_class": "W"
+  },
+  {
+    "entropy": 0.5448112487792969,
+    "correct": 0,
+    "true_class": "In",
+    "pred_class": "Ga"
+  },
+  {
+    "entropy": 1.3301000595092773,
+    "correct": 0,
+    "true_class": "V",
+    "pred_class": "In"
+  },
+  {
+    "entropy": 1.8765347003936768,
+    "correct": 0,
+    "true_class": "W",
+    "pred_class": "In"
+  }
+]

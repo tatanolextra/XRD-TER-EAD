@@ -1,0 +1,506 @@
+[
+  {
+    "entropy": 1.8757920265197754,
+    "correct": 0,
+    "true_class": "Mn",
+    "pred_class": "Nb"
+  },
+  {
+    "entropy": 0.6868578791618347,
+    "correct": 0,
+    "true_class": "Mn",
+    "pred_class": "P"
+  },
+  {
+    "entropy": 1.79366135597229,
+    "correct": 0,
+    "true_class": "Mn",
+    "pred_class": "Nb"
+  },
+  {
+    "entropy": 1.3418540954589844,
+    "correct": 0,
+    "true_class": "Mo",
+    "pred_class": "P"
+  },
+  {
+    "entropy": 1.028031349182129,
+    "correct": 1,
+    "true_class": "Mo",
+    "pred_class": "Mo"
+  },
+  {
+    "entropy": 1.6766564846038818,
+    "correct": 0,
+    "true_class": "Mo",
+    "pred_class": "Nb"
+  },
+  {
+    "entropy": 1.2318814992904663,
+    "correct": 1,
+    "true_class": "P",
+    "pred_class": "P"
+  },
+  {
+    "entropy": 0.49067142605781555,
+    "correct": 0,
+    "true_class": "Re",
+    "pred_class": "W"
+  },
+  {
+    "entropy": 1.2070503234863281,
+    "correct": 0,
+    "true_class": "W",
+    "pred_class": "Re"
+  },
+  {
+    "entropy": 1.166440486907959,
+    "correct": 0,
+    "true_class": "V",
+    "pred_class": "Nb"
+  },
+  {
+    "entropy": 0.42085981369018555,
+    "correct": 0,
+    "true_class": "Nb",
+    "pred_class": "Mo"
+  },
+  {
+    "entropy": 0.8489893674850464,
+    "correct": 1,
+    "true_class": "P",
+    "pred_class": "P"
+  },
+  {
+    "entropy": 1.6875348091125488,
+    "correct": 0,
+    "true_class": "V",
+    "pred_class": "W"
+  },
+  {
+    "entropy": 1.045274019241333,
+    "correct": 0,
+    "true_class": "P",
+    "pred_class": "V"
+  },
+  {
+    "entropy": 1.570689082145691,
+    "correct": 1,
+    "true_class": "P",
+    "pred_class": "P"
+  },
+  {
+    "entropy": 1.6565033197402954,
+    "correct": 0,
+    "true_class": "Re",
+    "pred_class": "V"
+  },
+  {
+    "entropy": 1.1440258026123047,
+    "correct": 0,
+    "true_class": "V",
+    "pred_class": "Nb"
+  },
+  {
+    "entropy": 1.5322599411010742,
+    "correct": 0,
+    "true_class": "V",
+    "pred_class": "As"
+  },
+  {
+    "entropy": 0.4368442893028259,
+    "correct": 0,
+    "true_class": "V",
+    "pred_class": "Mn"
+  },
+  {
+    "entropy": 1.0122792720794678,
+    "correct": 0,
+    "true_class": "W",
+    "pred_class": "Cr"
+  },
+  {
+    "entropy": 0.3957858681678772,
+    "correct": 0,
+    "true_class": "As",
+    "pred_class": "Nb"
+  },
+  {
+    "entropy": 1.4733363389968872,
+    "correct": 0,
+    "true_class": "As",
+    "pred_class": "Nb"
+  },
+  {
+    "entropy": 1.4446499347686768,
+    "correct": 0,
+    "true_class": "As",
+    "pred_class": "Nb"
+  },
+  {
+    "entropy": 0.3975738286972046,
+    "correct": 0,
+    "true_class": "As",
+    "pred_class": "Nb"
+  },
+  {
+    "entropy": 1.3954602479934692,
+    "correct": 1,
+    "true_class": "Mo",
+    "pred_class": "Mo"
+  },
+  {
+    "entropy": 0.5146393179893494,
+    "correct": 0,
+    "true_class": "Re",
+    "pred_class": "Ta"
+  },
+  {
+    "entropy": 0.7415777444839478,
+    "correct": 0,
+    "true_class": "W",
+    "pred_class": "P"
+  },
+  {
+    "entropy": 0.4380098283290863,
+    "correct": 1,
+    "true_class": "W",
+    "pred_class": "W"
+  },
+  {
+    "entropy": 0.6891605257987976,
+    "correct": 0,
+    "true_class": "Mn",
+    "pred_class": "Nb"
+  },
+  {
+    "entropy": 1.1702873706817627,
+    "correct": 1,
+    "true_class": "Ta",
+    "pred_class": "Ta"
+  },
+  {
+    "entropy": 1.0046117305755615,
+    "correct": 1,
+    "true_class": "Cr",
+    "pred_class": "Cr"
+  },
+  {
+    "entropy": 0.42273297905921936,
+    "correct": 0,
+    "true_class": "Cr",
+    "pred_class": "Mn"
+  },
+  {
+    "entropy": 1.1604585647583008,
+    "correct": 0,
+    "true_class": "Mo",
+    "pred_class": "W"
+  },
+  {
+    "entropy": 1.5724217891693115,
+    "correct": 0,
+    "true_class": "V",
+    "pred_class": "Nb"
+  },
+  {
+    "entropy": 0.5929462313652039,
+    "correct": 0,
+    "true_class": "Nb",
+    "pred_class": "Ta"
+  },
+  {
+    "entropy": 0.4527871906757355,
+    "correct": 0,
+    "true_class": "V",
+    "pred_class": "Cr"
+  },
+  {
+    "entropy": 0.4346697926521301,
+    "correct": 1,
+    "true_class": "P",
+    "pred_class": "P"
+  },
+  {
+    "entropy": 0.48409131169319153,
+    "correct": 1,
+    "true_class": "V",
+    "pred_class": "V"
+  },
+  {
+    "entropy": 1.5352139472961426,
+    "correct": 0,
+    "true_class": "Re",
+    "pred_class": "P"
+  },
+  {
+    "entropy": 0.4202312231063843,
+    "correct": 1,
+    "true_class": "P",
+    "pred_class": "P"
+  },
+  {
+    "entropy": 0.6234965324401855,
+    "correct": 1,
+    "true_class": "P",
+    "pred_class": "P"
+  },
+  {
+    "entropy": 0.5511317849159241,
+    "correct": 1,
+    "true_class": "W",
+    "pred_class": "W"
+  },
+  {
+    "entropy": 1.128706455230713,
+    "correct": 0,
+    "true_class": "Mn",
+    "pred_class": "Re"
+  },
+  {
+    "entropy": 0.8431524634361267,
+    "correct": 0,
+    "true_class": "Ta",
+    "pred_class": "Nb"
+  },
+  {
+    "entropy": 1.0126484632492065,
+    "correct": 0,
+    "true_class": "Mn",
+    "pred_class": "V"
+  },
+  {
+    "entropy": 0.9285954833030701,
+    "correct": 1,
+    "true_class": "Mo",
+    "pred_class": "Mo"
+  },
+  {
+    "entropy": 0.6828992366790771,
+    "correct": 0,
+    "true_class": "P",
+    "pred_class": "V"
+  },
+  {
+    "entropy": 0.41606405377388,
+    "correct": 1,
+    "true_class": "P",
+    "pred_class": "P"
+  },
+  {
+    "entropy": 1.3161530494689941,
+    "correct": 1,
+    "true_class": "Re",
+    "pred_class": "Re"
+  },
+  {
+    "entropy": 1.6709001064300537,
+    "correct": 0,
+    "true_class": "Re",
+    "pred_class": "Ta"
+  },
+  {
+    "entropy": 0.41995054483413696,
+    "correct": 1,
+    "true_class": "W",
+    "pred_class": "W"
+  },
+  {
+    "entropy": 1.1623175144195557,
+    "correct": 0,
+    "true_class": "W",
+    "pred_class": "Nb"
+  },
+  {
+    "entropy": 0.4296150803565979,
+    "correct": 1,
+    "true_class": "P",
+    "pred_class": "P"
+  },
+  {
+    "entropy": 0.42012035846710205,
+    "correct": 1,
+    "true_class": "P",
+    "pred_class": "P"
+  },
+  {
+    "entropy": 1.657395839691162,
+    "correct": 0,
+    "true_class": "Re",
+    "pred_class": "W"
+  },
+  {
+    "entropy": 1.4090580940246582,
+    "correct": 0,
+    "true_class": "W",
+    "pred_class": "Cr"
+  },
+  {
+    "entropy": 0.5157693028450012,
+    "correct": 1,
+    "true_class": "V",
+    "pred_class": "V"
+  },
+  {
+    "entropy": 1.4899150133132935,
+    "correct": 0,
+    "true_class": "V",
+    "pred_class": "P"
+  },
+  {
+    "entropy": 0.49649250507354736,
+    "correct": 0,
+    "true_class": "As",
+    "pred_class": "V"
+  },
+  {
+    "entropy": 0.4230600893497467,
+    "correct": 1,
+    "true_class": "As",
+    "pred_class": "As"
+  },
+  {
+    "entropy": 1.15171480178833,
+    "correct": 0,
+    "true_class": "As",
+    "pred_class": "V"
+  },
+  {
+    "entropy": 1.1310677528381348,
+    "correct": 0,
+    "true_class": "Mn",
+    "pred_class": "P"
+  },
+  {
+    "entropy": 1.0367473363876343,
+    "correct": 1,
+    "true_class": "Nb",
+    "pred_class": "Nb"
+  },
+  {
+    "entropy": 0.4097248911857605,
+    "correct": 0,
+    "true_class": "Nb",
+    "pred_class": "V"
+  },
+  {
+    "entropy": 0.4463399052619934,
+    "correct": 1,
+    "true_class": "V",
+    "pred_class": "V"
+  },
+  {
+    "entropy": 1.3290650844573975,
+    "correct": 1,
+    "true_class": "W",
+    "pred_class": "W"
+  },
+  {
+    "entropy": 0.8051567077636719,
+    "correct": 0,
+    "true_class": "V",
+    "pred_class": "Cr"
+  },
+  {
+    "entropy": 0.41832655668258667,
+    "correct": 1,
+    "true_class": "Mo",
+    "pred_class": "Mo"
+  },
+  {
+    "entropy": 1.045092225074768,
+    "correct": 0,
+    "true_class": "V",
+    "pred_class": "Cr"
+  },
+  {
+    "entropy": 1.5729252099990845,
+    "correct": 0,
+    "true_class": "Mo",
+    "pred_class": "As"
+  },
+  {
+    "entropy": 1.3239109516143799,
+    "correct": 0,
+    "true_class": "P",
+    "pred_class": "Mn"
+  },
+  {
+    "entropy": 1.1994824409484863,
+    "correct": 1,
+    "true_class": "W",
+    "pred_class": "W"
+  },
+  {
+    "entropy": 0.42354029417037964,
+    "correct": 0,
+    "true_class": "V",
+    "pred_class": "P"
+  },
+  {
+    "entropy": 0.4248148500919342,
+    "correct": 0,
+    "true_class": "Mo",
+    "pred_class": "Cr"
+  },
+  {
+    "entropy": 0.4335610866546631,
+    "correct": 0,
+    "true_class": "W",
+    "pred_class": "Re"
+  },
+  {
+    "entropy": 0.5428892374038696,
+    "correct": 1,
+    "true_class": "Cr",
+    "pred_class": "Cr"
+  },
+  {
+    "entropy": 0.9817193746566772,
+    "correct": 0,
+    "true_class": "Cr",
+    "pred_class": "V"
+  },
+  {
+    "entropy": 1.3306636810302734,
+    "correct": 0,
+    "true_class": "Cr",
+    "pred_class": "As"
+  },
+  {
+    "entropy": 1.7408558130264282,
+    "correct": 0,
+    "true_class": "Re",
+    "pred_class": "P"
+  },
+  {
+    "entropy": 1.3885254859924316,
+    "correct": 1,
+    "true_class": "P",
+    "pred_class": "P"
+  },
+  {
+    "entropy": 1.034369707107544,
+    "correct": 0,
+    "true_class": "P",
+    "pred_class": "Mo"
+  },
+  {
+    "entropy": 1.485424518585205,
+    "correct": 0,
+    "true_class": "Nb",
+    "pred_class": "Mo"
+  },
+  {
+    "entropy": 0.5258198976516724,
+    "correct": 1,
+    "true_class": "V",
+    "pred_class": "V"
+  },
+  {
+    "entropy": 1.7097362279891968,
+    "correct": 0,
+    "true_class": "Mn",
+    "pred_class": "Re"
+  }
+]
